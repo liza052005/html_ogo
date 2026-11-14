@@ -1,0 +1,8002 @@
+[
+    {
+        "id": 1,
+        "name": "Джинсы 24",
+        "price": 27219.89,
+        "rating": 3.6,
+        "category": "Красота",
+        "in_stock": false
+    },
+    {
+        "id": 2,
+        "name": "Футболка 35",
+        "price": 35066.56,
+        "rating": 4.8,
+        "category": "Красота",
+        "in_stock": false
+    },
+    {
+        "id": 3,
+        "name": "Мышь 44",
+        "price": 12200.34,
+        "rating": 4.4,
+        "category": "Игрушки",
+        "in_stock": false
+    },
+    {
+        "id": 4,
+        "name": "Монитор 7",
+        "price": 9054.22,
+        "rating": 4.1,
+        "category": "Одежда",
+        "in_stock": false
+    },
+    {
+        "id": 5,
+        "name": "Зарядка 81",
+        "price": 32060.68,
+        "rating": 4.3,
+        "category": "Обувь",
+        "in_stock": false
+    },
+    {
+        "id": 6,
+        "name": "Духи 14",
+        "price": 26358.61,
+        "rating": 2.8,
+        "category": "Одежда",
+        "in_stock": false
+    },
+    {
+        "id": 7,
+        "name": "Ролики 62",
+        "price": 22194.01,
+        "rating": 1.4,
+        "category": "Книги",
+        "in_stock": true
+    },
+    {
+        "id": 8,
+        "name": "Ролики 32",
+        "price": 42737.69,
+        "rating": 2.4,
+        "category": "Обувь",
+        "in_stock": true
+    },
+    {
+        "id": 9,
+        "name": "Журнал 98",
+        "price": 39067.78,
+        "rating": 4.9,
+        "category": "Спорт",
+        "in_stock": false
+    },
+    {
+        "id": 10,
+        "name": "Колонка 85",
+        "price": 26137.45,
+        "rating": 2.0,
+        "category": "Книги",
+        "in_stock": true
+    },
+    {
+        "id": 11,
+        "name": "Велосипед 6",
+        "price": 14633.91,
+        "rating": 2.9,
+        "category": "Спорт",
+        "in_stock": true
+    },
+    {
+        "id": 12,
+        "name": "Велосипед 12",
+        "price": 2242.0,
+        "rating": 3.5,
+        "category": "Электроника",
+        "in_stock": false
+    },
+    {
+        "id": 13,
+        "name": "Джинсы 10",
+        "price": 40896.49,
+        "rating": 3.1,
+        "category": "Электроника",
+        "in_stock": false
+    },
+    {
+        "id": 14,
+        "name": "Журнал 26",
+        "price": 48640.64,
+        "rating": 1.4,
+        "category": "Электроника",
+        "in_stock": false
+    },
+    {
+        "id": 15,
+        "name": "Кабель 13",
+        "price": 21197.1,
+        "rating": 4.2,
+        "category": "Игрушки",
+        "in_stock": true
+    },
+    {
+        "id": 16,
+        "name": "Джинсы 29",
+        "price": 48121.2,
+        "rating": 3.6,
+        "category": "Электроника",
+        "in_stock": false
+    },
+    {
+        "id": 17,
+        "name": "Шампунь 24",
+        "price": 2298.36,
+        "rating": 4.8,
+        "category": "Книги",
+        "in_stock": true
+    },
+    {
+        "id": 18,
+        "name": "Ролики 70",
+        "price": 18956.75,
+        "rating": 4.5,
+        "category": "Красота",
+        "in_stock": true
+    },
+    {
+        "id": 19,
+        "name": "Кабель 43",
+        "price": 45134.0,
+        "rating": 4.7,
+        "category": "Книги",
+        "in_stock": true
+    },
+    {
+        "id": 20,
+        "name": "Крем 91",
+        "price": 16284.45,
+        "rating": 2.5,
+        "category": "Одежда",
+        "in_stock": false
+    },
+    {
+        "id": 21,
+        "name": "Наушники 42",
+        "price": 24378.56,
+        "rating": 3.6,
+        "category": "Книги",
+        "in_stock": false
+    },
+    {
+        "id": 22,
+        "name": "Куртка 60",
+        "price": 13557.89,
+        "rating": 4.7,
+        "category": "Электроника",
+        "in_stock": true
+    },
+    {
+        "id": 23,
+        "name": "Монитор 55",
+        "price": 21446.92,
+        "rating": 2.4,
+        "category": "Электроника",
+        "in_stock": true
+    },
+    {
+        "id": 24,
+        "name": "Джинсы 91",
+        "price": 36845.33,
+        "rating": 4.7,
+        "category": "Аксуссуары",
+        "in_stock": false
+    },
+    {
+        "id": 25,
+        "name": "Конструктор 93",
+        "price": 43658.13,
+        "rating": 1.2,
+        "category": "Аксуссуары",
+        "in_stock": true
+    },
+    {
+        "id": 26,
+        "name": "Телефон 43",
+        "price": 20267.82,
+        "rating": 4.7,
+        "category": "Обувь",
+        "in_stock": false
+    },
+    {
+        "id": 27,
+        "name": "Конструктор 88",
+        "price": 23025.43,
+        "rating": 3.0,
+        "category": "Обувь",
+        "in_stock": false
+    },
+    {
+        "id": 28,
+        "name": "Духи 40",
+        "price": 20043.83,
+        "rating": 2.0,
+        "category": "Аксуссуары",
+        "in_stock": false
+    },
+    {
+        "id": 29,
+        "name": "Велосипед 66",
+        "price": 35967.67,
+        "rating": 4.3,
+        "category": "Книги",
+        "in_stock": true
+    },
+    {
+        "id": 30,
+        "name": "Ролики 100",
+        "price": 46032.93,
+        "rating": 1.0,
+        "category": "Книги",
+        "in_stock": true
+    },
+    {
+        "id": 31,
+        "name": "Планшет 14",
+        "price": 43058.5,
+        "rating": 3.2,
+        "category": "Электроника",
+        "in_stock": true
+    },
+    {
+        "id": 32,
+        "name": "Сумка 65",
+        "price": 16711.44,
+        "rating": 3.7,
+        "category": "Аксуссуары",
+        "in_stock": true
+    },
+    {
+        "id": 33,
+        "name": "Крем 44",
+        "price": 30380.07,
+        "rating": 2.8,
+        "category": "Электроника",
+        "in_stock": false
+    },
+    {
+        "id": 34,
+        "name": "Чехол 85",
+        "price": 28712.42,
+        "rating": 4.8,
+        "category": "Аксуссуары",
+        "in_stock": false
+    },
+    {
+        "id": 35,
+        "name": "Колонка 37",
+        "price": 1490.26,
+        "rating": 2.5,
+        "category": "Игрушки",
+        "in_stock": true
+    },
+    {
+        "id": 36,
+        "name": "Рюкзак 8",
+        "price": 3189.22,
+        "rating": 1.7,
+        "category": "Красота",
+        "in_stock": true
+    },
+    {
+        "id": 37,
+        "name": "Чехол 21",
+        "price": 1934.72,
+        "rating": 1.6,
+        "category": "Аксуссуары",
+        "in_stock": false
+    },
+    {
+        "id": 38,
+        "name": "Монитор 86",
+        "price": 15462.43,
+        "rating": 2.7,
+        "category": "Красота",
+        "in_stock": false
+    },
+    {
+        "id": 39,
+        "name": "Зарядка 40",
+        "price": 43796.02,
+        "rating": 4.5,
+        "category": "Аксуссуары",
+        "in_stock": true
+    },
+    {
+        "id": 40,
+        "name": "Куртка 27",
+        "price": 12061.26,
+        "rating": 2.3,
+        "category": "Красота",
+        "in_stock": false
+    },
+    {
+        "id": 41,
+        "name": "Кабель 27",
+        "price": 48007.23,
+        "rating": 4.1,
+        "category": "Красота",
+        "in_stock": true
+    },
+    {
+        "id": 42,
+        "name": "Ролики 29",
+        "price": 13916.97,
+        "rating": 1.3,
+        "category": "Красота",
+        "in_stock": true
+    },
+    {
+        "id": 43,
+        "name": "Зарядка 3",
+        "price": 45339.35,
+        "rating": 3.0,
+        "category": "Спорт",
+        "in_stock": true
+    },
+    {
+        "id": 44,
+        "name": "Джинсы 79",
+        "price": 36983.51,
+        "rating": 3.1,
+        "category": "Красота",
+        "in_stock": true
+    },
+    {
+        "id": 45,
+        "name": "Кабель 18",
+        "price": 45922.53,
+        "rating": 2.8,
+        "category": "Спорт",
+        "in_stock": false
+    },
+    {
+        "id": 46,
+        "name": "Велосипед 37",
+        "price": 33880.31,
+        "rating": 1.2,
+        "category": "Обувь",
+        "in_stock": true
+    },
+    {
+        "id": 47,
+        "name": "Мышь 31",
+        "price": 11357.99,
+        "rating": 2.6,
+        "category": "Красота",
+        "in_stock": false
+    },
+    {
+        "id": 48,
+        "name": "Футболка 87",
+        "price": 47376.34,
+        "rating": 1.5,
+        "category": "Обувь",
+        "in_stock": true
+    },
+    {
+        "id": 49,
+        "name": "Колонка 61",
+        "price": 40271.6,
+        "rating": 4.2,
+        "category": "Красота",
+        "in_stock": true
+    },
+    {
+        "id": 50,
+        "name": "Машинка 34",
+        "price": 46299.38,
+        "rating": 4.0,
+        "category": "Красота",
+        "in_stock": false
+    },
+    {
+        "id": 51,
+        "name": "Шампунь 30",
+        "price": 11810.09,
+        "rating": 4.1,
+        "category": "Аксуссуары",
+        "in_stock": false
+    },
+    {
+        "id": 52,
+        "name": "Кабель 83",
+        "price": 3269.46,
+        "rating": 4.7,
+        "category": "Книги",
+        "in_stock": false
+    },
+    {
+        "id": 53,
+        "name": "Машинка 63",
+        "price": 6605.91,
+        "rating": 1.8,
+        "category": "Одежда",
+        "in_stock": true
+    },
+    {
+        "id": 54,
+        "name": "Клавиатура 25",
+        "price": 44345.38,
+        "rating": 1.5,
+        "category": "Красота",
+        "in_stock": false
+    },
+    {
+        "id": 55,
+        "name": "Мышь 70",
+        "price": 26881.47,
+        "rating": 3.2,
+        "category": "Книги",
+        "in_stock": true
+    },
+    {
+        "id": 56,
+        "name": "Стекло 62",
+        "price": 30589.38,
+        "rating": 4.6,
+        "category": "Аксуссуары",
+        "in_stock": true
+    },
+    {
+        "id": 57,
+        "name": "Рюкзак 77",
+        "price": 23763.9,
+        "rating": 3.1,
+        "category": "Электроника",
+        "in_stock": false
+    },
+    {
+        "id": 58,
+        "name": "Кукла 13",
+        "price": 10321.84,
+        "rating": 2.0,
+        "category": "Книги",
+        "in_stock": true
+    },
+    {
+        "id": 59,
+        "name": "Футболка 58",
+        "price": 26933.74,
+        "rating": 2.7,
+        "category": "Книги",
+        "in_stock": false
+    },
+    {
+        "id": 60,
+        "name": "Журнал 7",
+        "price": 47222.14,
+        "rating": 3.6,
+        "category": "Книги",
+        "in_stock": false
+    },
+    {
+        "id": 61,
+        "name": "Мяч 49",
+        "price": 7511.36,
+        "rating": 1.8,
+        "category": "Спорт",
+        "in_stock": true
+    },
+    {
+        "id": 62,
+        "name": "Джинсы 58",
+        "price": 17229.69,
+        "rating": 5.0,
+        "category": "Одежда",
+        "in_stock": false
+    },
+    {
+        "id": 63,
+        "name": "Велосипед 71",
+        "price": 48172.88,
+        "rating": 2.5,
+        "category": "Спорт",
+        "in_stock": true
+    },
+    {
+        "id": 64,
+        "name": "Стекло 37",
+        "price": 33949.79,
+        "rating": 3.7,
+        "category": "Игрушки",
+        "in_stock": true
+    },
+    {
+        "id": 65,
+        "name": "Кукла 60",
+        "price": 9886.46,
+        "rating": 4.4,
+        "category": "Красота",
+        "in_stock": true
+    },
+    {
+        "id": 66,
+        "name": "Конструктор 11",
+        "price": 49472.42,
+        "rating": 3.2,
+        "category": "Красота",
+        "in_stock": false
+    },
+    {
+        "id": 67,
+        "name": "Куртка 68",
+        "price": 9261.13,
+        "rating": 1.7,
+        "category": "Обувь",
+        "in_stock": false
+    },
+    {
+        "id": 68,
+        "name": "Платье 14",
+        "price": 16076.53,
+        "rating": 1.8,
+        "category": "Аксуссуары",
+        "in_stock": false
+    },
+    {
+        "id": 69,
+        "name": "Кофта 49",
+        "price": 13116.43,
+        "rating": 4.4,
+        "category": "Аксуссуары",
+        "in_stock": true
+    },
+    {
+        "id": 70,
+        "name": "Рюкзак 22",
+        "price": 31897.63,
+        "rating": 1.4,
+        "category": "Игрушки",
+        "in_stock": true
+    },
+    {
+        "id": 71,
+        "name": "Клавиатура 94",
+        "price": 5338.48,
+        "rating": 3.2,
+        "category": "Игрушки",
+        "in_stock": false
+    },
+    {
+        "id": 72,
+        "name": "Зарядка 58",
+        "price": 38943.89,
+        "rating": 1.5,
+        "category": "Электроника",
+        "in_stock": false
+    },
+    {
+        "id": 73,
+        "name": "Мышь 13",
+        "price": 3413.93,
+        "rating": 4.9,
+        "category": "Электроника",
+        "in_stock": false
+    },
+    {
+        "id": 74,
+        "name": "Куртка 63",
+        "price": 27309.73,
+        "rating": 4.5,
+        "category": "Красота",
+        "in_stock": true
+    },
+    {
+        "id": 75,
+        "name": "Монитор 12",
+        "price": 2563.22,
+        "rating": 2.7,
+        "category": "Электроника",
+        "in_stock": false
+    },
+    {
+        "id": 76,
+        "name": "Журнал 34",
+        "price": 10906.87,
+        "rating": 2.2,
+        "category": "Электроника",
+        "in_stock": false
+    },
+    {
+        "id": 77,
+        "name": "Шампунь 11",
+        "price": 22407.64,
+        "rating": 1.8,
+        "category": "Красота",
+        "in_stock": true
+    },
+    {
+        "id": 78,
+        "name": "Машинка 14",
+        "price": 39015.08,
+        "rating": 4.6,
+        "category": "Аксуссуары",
+        "in_stock": false
+    },
+    {
+        "id": 79,
+        "name": "Сумка 12",
+        "price": 28597.49,
+        "rating": 2.6,
+        "category": "Обувь",
+        "in_stock": true
+    },
+    {
+        "id": 80,
+        "name": "Клавиатура 5",
+        "price": 29451.08,
+        "rating": 4.1,
+        "category": "Аксуссуары",
+        "in_stock": false
+    },
+    {
+        "id": 81,
+        "name": "Стекло 61",
+        "price": 47596.75,
+        "rating": 3.9,
+        "category": "Спорт",
+        "in_stock": true
+    },
+    {
+        "id": 82,
+        "name": "Журнал 66",
+        "price": 20217.7,
+        "rating": 4.2,
+        "category": "Спорт",
+        "in_stock": false
+    },
+    {
+        "id": 83,
+        "name": "Монитор 51",
+        "price": 4950.0,
+        "rating": 3.0,
+        "category": "Аксуссуары",
+        "in_stock": false
+    },
+    {
+        "id": 84,
+        "name": "Зарядка 81",
+        "price": 2529.33,
+        "rating": 4.2,
+        "category": "Одежда",
+        "in_stock": true
+    },
+    {
+        "id": 85,
+        "name": "Конструктор 4",
+        "price": 22033.19,
+        "rating": 4.6,
+        "category": "Обувь",
+        "in_stock": true
+    },
+    {
+        "id": 86,
+        "name": "Наушники 41",
+        "price": 36891.02,
+        "rating": 2.6,
+        "category": "Обувь",
+        "in_stock": true
+    },
+    {
+        "id": 87,
+        "name": "Кукла 97",
+        "price": 48586.28,
+        "rating": 4.5,
+        "category": "Аксуссуары",
+        "in_stock": false
+    },
+    {
+        "id": 88,
+        "name": "Крем 31",
+        "price": 23194.76,
+        "rating": 2.8,
+        "category": "Одежда",
+        "in_stock": true
+    },
+    {
+        "id": 89,
+        "name": "Планшет 44",
+        "price": 39023.74,
+        "rating": 2.6,
+        "category": "Книги",
+        "in_stock": false
+    },
+    {
+        "id": 90,
+        "name": "Сумка 29",
+        "price": 16043.33,
+        "rating": 2.5,
+        "category": "Игрушки",
+        "in_stock": true
+    },
+    {
+        "id": 91,
+        "name": "Сумка 14",
+        "price": 881.41,
+        "rating": 3.8,
+        "category": "Одежда",
+        "in_stock": false
+    },
+    {
+        "id": 92,
+        "name": "Планшет 43",
+        "price": 6765.58,
+        "rating": 3.0,
+        "category": "Красота",
+        "in_stock": false
+    },
+    {
+        "id": 93,
+        "name": "Кофта 34",
+        "price": 39935.89,
+        "rating": 4.9,
+        "category": "Обувь",
+        "in_stock": false
+    },
+    {
+        "id": 94,
+        "name": "Мяч 57",
+        "price": 47982.59,
+        "rating": 4.2,
+        "category": "Игрушки",
+        "in_stock": false
+    },
+    {
+        "id": 95,
+        "name": "Наушники 7",
+        "price": 17464.26,
+        "rating": 3.9,
+        "category": "Обувь",
+        "in_stock": true
+    },
+    {
+        "id": 96,
+        "name": "Велосипед 6",
+        "price": 35752.52,
+        "rating": 3.0,
+        "category": "Одежда",
+        "in_stock": true
+    },
+    {
+        "id": 97,
+        "name": "Велосипед 26",
+        "price": 27594.35,
+        "rating": 1.2,
+        "category": "Красота",
+        "in_stock": true
+    },
+    {
+        "id": 98,
+        "name": "Кофта 9",
+        "price": 38342.04,
+        "rating": 3.1,
+        "category": "Красота",
+        "in_stock": false
+    },
+    {
+        "id": 99,
+        "name": "Рюкзак 71",
+        "price": 48020.49,
+        "rating": 1.2,
+        "category": "Спорт",
+        "in_stock": false
+    },
+    {
+        "id": 100,
+        "name": "Конструктор 80",
+        "price": 29940.43,
+        "rating": 3.0,
+        "category": "Книги",
+        "in_stock": false
+    },
+    {
+        "id": 101,
+        "name": "Шампунь 39",
+        "price": 9332.57,
+        "rating": 3.9,
+        "category": "Спорт",
+        "in_stock": false
+    },
+    {
+        "id": 102,
+        "name": "Сумка 14",
+        "price": 14281.92,
+        "rating": 3.3,
+        "category": "Аксуссуары",
+        "in_stock": true
+    },
+    {
+        "id": 103,
+        "name": "Крем 83",
+        "price": 11348.56,
+        "rating": 1.1,
+        "category": "Аксуссуары",
+        "in_stock": true
+    },
+    {
+        "id": 104,
+        "name": "Машинка 11",
+        "price": 38465.69,
+        "rating": 4.7,
+        "category": "Красота",
+        "in_stock": false
+    },
+    {
+        "id": 105,
+        "name": "Планшет 12",
+        "price": 26450.06,
+        "rating": 3.1,
+        "category": "Аксуссуары",
+        "in_stock": false
+    },
+    {
+        "id": 106,
+        "name": "Ролики 97",
+        "price": 18381.95,
+        "rating": 1.0,
+        "category": "Обувь",
+        "in_stock": true
+    },
+    {
+        "id": 107,
+        "name": "Журнал 62",
+        "price": 18397.95,
+        "rating": 4.1,
+        "category": "Красота",
+        "in_stock": false
+    },
+    {
+        "id": 108,
+        "name": "Шампунь 79",
+        "price": 2092.34,
+        "rating": 4.0,
+        "category": "Электроника",
+        "in_stock": false
+    },
+    {
+        "id": 109,
+        "name": "Мяч 29",
+        "price": 7491.63,
+        "rating": 2.4,
+        "category": "Игрушки",
+        "in_stock": true
+    },
+    {
+        "id": 110,
+        "name": "Планшет 59",
+        "price": 29634.92,
+        "rating": 4.5,
+        "category": "Обувь",
+        "in_stock": false
+    },
+    {
+        "id": 111,
+        "name": "Зарядка 29",
+        "price": 25626.98,
+        "rating": 2.9,
+        "category": "Игрушки",
+        "in_stock": false
+    },
+    {
+        "id": 112,
+        "name": "Футболка 24",
+        "price": 21825.25,
+        "rating": 4.5,
+        "category": "Обувь",
+        "in_stock": false
+    },
+    {
+        "id": 113,
+        "name": "Телефон 50",
+        "price": 48684.28,
+        "rating": 4.3,
+        "category": "Красота",
+        "in_stock": true
+    },
+    {
+        "id": 114,
+        "name": "Платье 92",
+        "price": 35738.43,
+        "rating": 4.2,
+        "category": "Одежда",
+        "in_stock": false
+    },
+    {
+        "id": 115,
+        "name": "Куртка 83",
+        "price": 15616.59,
+        "rating": 2.6,
+        "category": "Одежда",
+        "in_stock": false
+    },
+    {
+        "id": 116,
+        "name": "Стекло 93",
+        "price": 46107.4,
+        "rating": 3.5,
+        "category": "Электроника",
+        "in_stock": false
+    },
+    {
+        "id": 117,
+        "name": "Монитор 15",
+        "price": 5145.49,
+        "rating": 4.7,
+        "category": "Спорт",
+        "in_stock": true
+    },
+    {
+        "id": 118,
+        "name": "Велосипед 62",
+        "price": 48868.32,
+        "rating": 1.6,
+        "category": "Спорт",
+        "in_stock": false
+    },
+    {
+        "id": 119,
+        "name": "Журнал 21",
+        "price": 47024.15,
+        "rating": 2.4,
+        "category": "Красота",
+        "in_stock": false
+    },
+    {
+        "id": 120,
+        "name": "Ролики 33",
+        "price": 37886.07,
+        "rating": 1.1,
+        "category": "Одежда",
+        "in_stock": false
+    },
+    {
+        "id": 121,
+        "name": "Наушники 17",
+        "price": 2603.6,
+        "rating": 3.0,
+        "category": "Аксуссуары",
+        "in_stock": true
+    },
+    {
+        "id": 122,
+        "name": "Шампунь 92",
+        "price": 27971.24,
+        "rating": 3.7,
+        "category": "Обувь",
+        "in_stock": true
+    },
+    {
+        "id": 123,
+        "name": "Чехол 59",
+        "price": 16832.25,
+        "rating": 1.4,
+        "category": "Спорт",
+        "in_stock": true
+    },
+    {
+        "id": 124,
+        "name": "Кофта 10",
+        "price": 48632.21,
+        "rating": 1.4,
+        "category": "Спорт",
+        "in_stock": false
+    },
+    {
+        "id": 125,
+        "name": "Телефон 15",
+        "price": 38939.07,
+        "rating": 5.0,
+        "category": "Красота",
+        "in_stock": true
+    },
+    {
+        "id": 126,
+        "name": "Духи 50",
+        "price": 42056.83,
+        "rating": 1.5,
+        "category": "Обувь",
+        "in_stock": false
+    },
+    {
+        "id": 127,
+        "name": "Кофта 66",
+        "price": 22742.43,
+        "rating": 3.1,
+        "category": "Красота",
+        "in_stock": true
+    },
+    {
+        "id": 128,
+        "name": "Ролики 77",
+        "price": 17452.21,
+        "rating": 4.6,
+        "category": "Красота",
+        "in_stock": false
+    },
+    {
+        "id": 129,
+        "name": "Шампунь 75",
+        "price": 9212.67,
+        "rating": 1.8,
+        "category": "Электроника",
+        "in_stock": true
+    },
+    {
+        "id": 130,
+        "name": "Духи 37",
+        "price": 12269.1,
+        "rating": 2.1,
+        "category": "Обувь",
+        "in_stock": false
+    },
+    {
+        "id": 131,
+        "name": "Зарядка 66",
+        "price": 14995.63,
+        "rating": 3.9,
+        "category": "Красота",
+        "in_stock": true
+    },
+    {
+        "id": 132,
+        "name": "Джинсы 55",
+        "price": 11948.09,
+        "rating": 4.4,
+        "category": "Обувь",
+        "in_stock": false
+    },
+    {
+        "id": 133,
+        "name": "Ролики 48",
+        "price": 41492.77,
+        "rating": 1.5,
+        "category": "Красота",
+        "in_stock": false
+    },
+    {
+        "id": 134,
+        "name": "Куртка 89",
+        "price": 9750.63,
+        "rating": 3.2,
+        "category": "Обувь",
+        "in_stock": true
+    },
+    {
+        "id": 135,
+        "name": "Мышь 98",
+        "price": 24872.71,
+        "rating": 3.0,
+        "category": "Книги",
+        "in_stock": false
+    },
+    {
+        "id": 136,
+        "name": "Куртка 31",
+        "price": 6804.66,
+        "rating": 4.8,
+        "category": "Обувь",
+        "in_stock": true
+    },
+    {
+        "id": 137,
+        "name": "Кукла 5",
+        "price": 20109.41,
+        "rating": 3.2,
+        "category": "Обувь",
+        "in_stock": false
+    },
+    {
+        "id": 138,
+        "name": "Мышь 49",
+        "price": 1631.08,
+        "rating": 2.1,
+        "category": "Электроника",
+        "in_stock": false
+    },
+    {
+        "id": 139,
+        "name": "Велосипед 97",
+        "price": 33559.96,
+        "rating": 1.6,
+        "category": "Электроника",
+        "in_stock": false
+    },
+    {
+        "id": 140,
+        "name": "Мышь 63",
+        "price": 20249.84,
+        "rating": 1.8,
+        "category": "Игрушки",
+        "in_stock": false
+    },
+    {
+        "id": 141,
+        "name": "Шампунь 88",
+        "price": 35697.96,
+        "rating": 4.6,
+        "category": "Одежда",
+        "in_stock": false
+    },
+    {
+        "id": 142,
+        "name": "Велосипед 98",
+        "price": 41035.13,
+        "rating": 4.3,
+        "category": "Обувь",
+        "in_stock": false
+    },
+    {
+        "id": 143,
+        "name": "Сумка 10",
+        "price": 29018.86,
+        "rating": 3.4,
+        "category": "Игрушки",
+        "in_stock": true
+    },
+    {
+        "id": 144,
+        "name": "Конструктор 96",
+        "price": 49983.21,
+        "rating": 3.3,
+        "category": "Книги",
+        "in_stock": false
+    },
+    {
+        "id": 145,
+        "name": "Джинсы 90",
+        "price": 14852.92,
+        "rating": 4.0,
+        "category": "Одежда",
+        "in_stock": false
+    },
+    {
+        "id": 146,
+        "name": "Мяч 27",
+        "price": 27476.07,
+        "rating": 4.5,
+        "category": "Книги",
+        "in_stock": false
+    },
+    {
+        "id": 147,
+        "name": "Чехол 4",
+        "price": 27128.37,
+        "rating": 4.7,
+        "category": "Игрушки",
+        "in_stock": false
+    },
+    {
+        "id": 148,
+        "name": "Рюкзак 75",
+        "price": 4888.59,
+        "rating": 1.9,
+        "category": "Игрушки",
+        "in_stock": false
+    },
+    {
+        "id": 149,
+        "name": "Мышь 79",
+        "price": 41689.02,
+        "rating": 2.9,
+        "category": "Одежда",
+        "in_stock": true
+    },
+    {
+        "id": 150,
+        "name": "Платье 96",
+        "price": 19369.25,
+        "rating": 3.3,
+        "category": "Одежда",
+        "in_stock": false
+    },
+    {
+        "id": 151,
+        "name": "Журнал 79",
+        "price": 49448.93,
+        "rating": 3.3,
+        "category": "Электроника",
+        "in_stock": true
+    },
+    {
+        "id": 152,
+        "name": "Ролики 51",
+        "price": 11278.48,
+        "rating": 2.3,
+        "category": "Аксуссуары",
+        "in_stock": true
+    },
+    {
+        "id": 153,
+        "name": "Кабель 71",
+        "price": 14231.72,
+        "rating": 1.3,
+        "category": "Электроника",
+        "in_stock": true
+    },
+    {
+        "id": 154,
+        "name": "Стекло 56",
+        "price": 19019.9,
+        "rating": 2.9,
+        "category": "Красота",
+        "in_stock": true
+    },
+    {
+        "id": 155,
+        "name": "Рюкзак 84",
+        "price": 22006.48,
+        "rating": 2.6,
+        "category": "Обувь",
+        "in_stock": false
+    },
+    {
+        "id": 156,
+        "name": "Рюкзак 58",
+        "price": 33647.6,
+        "rating": 1.7,
+        "category": "Спорт",
+        "in_stock": false
+    },
+    {
+        "id": 157,
+        "name": "Колонка 31",
+        "price": 25401.56,
+        "rating": 1.4,
+        "category": "Спорт",
+        "in_stock": true
+    },
+    {
+        "id": 158,
+        "name": "Конструктор 4",
+        "price": 38956.47,
+        "rating": 3.0,
+        "category": "Книги",
+        "in_stock": true
+    },
+    {
+        "id": 159,
+        "name": "Кофта 17",
+        "price": 11619.79,
+        "rating": 4.0,
+        "category": "Игрушки",
+        "in_stock": true
+    },
+    {
+        "id": 160,
+        "name": "Духи 14",
+        "price": 5343.35,
+        "rating": 2.3,
+        "category": "Красота",
+        "in_stock": false
+    },
+    {
+        "id": 161,
+        "name": "Стекло 25",
+        "price": 27219.38,
+        "rating": 3.4,
+        "category": "Аксуссуары",
+        "in_stock": true
+    },
+    {
+        "id": 162,
+        "name": "Велосипед 13",
+        "price": 31099.19,
+        "rating": 2.3,
+        "category": "Обувь",
+        "in_stock": false
+    },
+    {
+        "id": 163,
+        "name": "Наушники 72",
+        "price": 41959.74,
+        "rating": 2.4,
+        "category": "Спорт",
+        "in_stock": true
+    },
+    {
+        "id": 164,
+        "name": "Колонка 16",
+        "price": 18806.82,
+        "rating": 1.8,
+        "category": "Игрушки",
+        "in_stock": false
+    },
+    {
+        "id": 165,
+        "name": "Велосипед 22",
+        "price": 14961.41,
+        "rating": 4.5,
+        "category": "Аксуссуары",
+        "in_stock": true
+    },
+    {
+        "id": 166,
+        "name": "Клавиатура 19",
+        "price": 941.36,
+        "rating": 3.5,
+        "category": "Одежда",
+        "in_stock": true
+    },
+    {
+        "id": 167,
+        "name": "Машинка 32",
+        "price": 32340.18,
+        "rating": 2.1,
+        "category": "Спорт",
+        "in_stock": false
+    },
+    {
+        "id": 168,
+        "name": "Духи 97",
+        "price": 29902.38,
+        "rating": 3.2,
+        "category": "Книги",
+        "in_stock": false
+    },
+    {
+        "id": 169,
+        "name": "Машинка 79",
+        "price": 11338.48,
+        "rating": 2.5,
+        "category": "Одежда",
+        "in_stock": false
+    },
+    {
+        "id": 170,
+        "name": "Чехол 23",
+        "price": 14595.95,
+        "rating": 3.5,
+        "category": "Красота",
+        "in_stock": false
+    },
+    {
+        "id": 171,
+        "name": "Журнал 90",
+        "price": 17399.66,
+        "rating": 1.4,
+        "category": "Книги",
+        "in_stock": false
+    },
+    {
+        "id": 172,
+        "name": "Чехол 17",
+        "price": 10021.96,
+        "rating": 3.3,
+        "category": "Электроника",
+        "in_stock": false
+    },
+    {
+        "id": 173,
+        "name": "Рюкзак 34",
+        "price": 7117.52,
+        "rating": 1.9,
+        "category": "Красота",
+        "in_stock": false
+    },
+    {
+        "id": 174,
+        "name": "Клавиатура 25",
+        "price": 30855.01,
+        "rating": 1.1,
+        "category": "Электроника",
+        "in_stock": false
+    },
+    {
+        "id": 175,
+        "name": "Ролики 22",
+        "price": 48744.62,
+        "rating": 3.5,
+        "category": "Одежда",
+        "in_stock": true
+    },
+    {
+        "id": 176,
+        "name": "Рюкзак 85",
+        "price": 44485.33,
+        "rating": 1.8,
+        "category": "Обувь",
+        "in_stock": false
+    },
+    {
+        "id": 177,
+        "name": "Планшет 77",
+        "price": 44343.62,
+        "rating": 4.3,
+        "category": "Красота",
+        "in_stock": false
+    },
+    {
+        "id": 178,
+        "name": "Крем 44",
+        "price": 3973.07,
+        "rating": 1.2,
+        "category": "Спорт",
+        "in_stock": true
+    },
+    {
+        "id": 179,
+        "name": "Мяч 57",
+        "price": 44188.25,
+        "rating": 3.0,
+        "category": "Книги",
+        "in_stock": true
+    },
+    {
+        "id": 180,
+        "name": "Мышь 16",
+        "price": 37065.16,
+        "rating": 4.6,
+        "category": "Игрушки",
+        "in_stock": true
+    },
+    {
+        "id": 181,
+        "name": "Футболка 39",
+        "price": 3593.25,
+        "rating": 4.5,
+        "category": "Игрушки",
+        "in_stock": true
+    },
+    {
+        "id": 182,
+        "name": "Мяч 14",
+        "price": 26384.59,
+        "rating": 4.6,
+        "category": "Одежда",
+        "in_stock": false
+    },
+    {
+        "id": 183,
+        "name": "Крем 6",
+        "price": 12653.23,
+        "rating": 4.9,
+        "category": "Электроника",
+        "in_stock": true
+    },
+    {
+        "id": 184,
+        "name": "Журнал 60",
+        "price": 41095.09,
+        "rating": 3.6,
+        "category": "Игрушки",
+        "in_stock": true
+    },
+    {
+        "id": 185,
+        "name": "Мяч 37",
+        "price": 46692.28,
+        "rating": 2.0,
+        "category": "Игрушки",
+        "in_stock": true
+    },
+    {
+        "id": 186,
+        "name": "Планшет 15",
+        "price": 39137.33,
+        "rating": 3.6,
+        "category": "Игрушки",
+        "in_stock": false
+    },
+    {
+        "id": 187,
+        "name": "Мышь 88",
+        "price": 26762.54,
+        "rating": 4.6,
+        "category": "Спорт",
+        "in_stock": false
+    },
+    {
+        "id": 188,
+        "name": "Наушники 90",
+        "price": 14357.25,
+        "rating": 1.5,
+        "category": "Одежда",
+        "in_stock": false
+    },
+    {
+        "id": 189,
+        "name": "Велосипед 65",
+        "price": 8321.89,
+        "rating": 3.6,
+        "category": "Спорт",
+        "in_stock": false
+    },
+    {
+        "id": 190,
+        "name": "Мяч 71",
+        "price": 48881.19,
+        "rating": 5.0,
+        "category": "Одежда",
+        "in_stock": true
+    },
+    {
+        "id": 191,
+        "name": "Куртка 41",
+        "price": 49789.31,
+        "rating": 3.0,
+        "category": "Одежда",
+        "in_stock": false
+    },
+    {
+        "id": 192,
+        "name": "Кофта 32",
+        "price": 19147.28,
+        "rating": 3.6,
+        "category": "Спорт",
+        "in_stock": true
+    },
+    {
+        "id": 193,
+        "name": "Рюкзак 18",
+        "price": 29371.17,
+        "rating": 4.1,
+        "category": "Спорт",
+        "in_stock": true
+    },
+    {
+        "id": 194,
+        "name": "Шампунь 41",
+        "price": 36102.74,
+        "rating": 3.4,
+        "category": "Аксуссуары",
+        "in_stock": false
+    },
+    {
+        "id": 195,
+        "name": "Ролики 30",
+        "price": 14649.43,
+        "rating": 1.2,
+        "category": "Спорт",
+        "in_stock": false
+    },
+    {
+        "id": 196,
+        "name": "Машинка 73",
+        "price": 31971.7,
+        "rating": 2.4,
+        "category": "Одежда",
+        "in_stock": true
+    },
+    {
+        "id": 197,
+        "name": "Рюкзак 3",
+        "price": 13350.6,
+        "rating": 4.8,
+        "category": "Обувь",
+        "in_stock": false
+    },
+    {
+        "id": 198,
+        "name": "Шампунь 90",
+        "price": 17775.49,
+        "rating": 4.4,
+        "category": "Книги",
+        "in_stock": true
+    },
+    {
+        "id": 199,
+        "name": "Кофта 59",
+        "price": 9902.09,
+        "rating": 4.1,
+        "category": "Спорт",
+        "in_stock": true
+    },
+    {
+        "id": 200,
+        "name": "Ролики 49",
+        "price": 3078.05,
+        "rating": 3.3,
+        "category": "Аксуссуары",
+        "in_stock": true
+    },
+    {
+        "id": 201,
+        "name": "Машинка 16",
+        "price": 32797.58,
+        "rating": 1.4,
+        "category": "Книги",
+        "in_stock": false
+    },
+    {
+        "id": 202,
+        "name": "Стекло 69",
+        "price": 38777.55,
+        "rating": 3.5,
+        "category": "Обувь",
+        "in_stock": false
+    },
+    {
+        "id": 203,
+        "name": "Стекло 16",
+        "price": 43566.99,
+        "rating": 2.6,
+        "category": "Аксуссуары",
+        "in_stock": false
+    },
+    {
+        "id": 204,
+        "name": "Наушники 59",
+        "price": 16696.64,
+        "rating": 3.3,
+        "category": "Игрушки",
+        "in_stock": false
+    },
+    {
+        "id": 205,
+        "name": "Планшет 35",
+        "price": 10977.65,
+        "rating": 4.2,
+        "category": "Обувь",
+        "in_stock": true
+    },
+    {
+        "id": 206,
+        "name": "Конструктор 95",
+        "price": 13351.03,
+        "rating": 1.5,
+        "category": "Игрушки",
+        "in_stock": false
+    },
+    {
+        "id": 207,
+        "name": "Куртка 54",
+        "price": 43785.19,
+        "rating": 2.7,
+        "category": "Обувь",
+        "in_stock": true
+    },
+    {
+        "id": 208,
+        "name": "Кабель 94",
+        "price": 22861.81,
+        "rating": 4.5,
+        "category": "Электроника",
+        "in_stock": true
+    },
+    {
+        "id": 209,
+        "name": "Колонка 8",
+        "price": 41181.62,
+        "rating": 4.3,
+        "category": "Обувь",
+        "in_stock": true
+    },
+    {
+        "id": 210,
+        "name": "Планшет 83",
+        "price": 28159.74,
+        "rating": 3.1,
+        "category": "Книги",
+        "in_stock": true
+    },
+    {
+        "id": 211,
+        "name": "Мышь 36",
+        "price": 27910.47,
+        "rating": 1.4,
+        "category": "Игрушки",
+        "in_stock": true
+    },
+    {
+        "id": 212,
+        "name": "Телефон 37",
+        "price": 3633.68,
+        "rating": 2.1,
+        "category": "Игрушки",
+        "in_stock": true
+    },
+    {
+        "id": 213,
+        "name": "Планшет 43",
+        "price": 2486.27,
+        "rating": 3.5,
+        "category": "Книги",
+        "in_stock": true
+    },
+    {
+        "id": 214,
+        "name": "Кукла 72",
+        "price": 12668.65,
+        "rating": 4.5,
+        "category": "Одежда",
+        "in_stock": true
+    },
+    {
+        "id": 215,
+        "name": "Мяч 6",
+        "price": 38928.23,
+        "rating": 3.5,
+        "category": "Книги",
+        "in_stock": false
+    },
+    {
+        "id": 216,
+        "name": "Шампунь 1",
+        "price": 28895.44,
+        "rating": 3.5,
+        "category": "Обувь",
+        "in_stock": false
+    },
+    {
+        "id": 217,
+        "name": "Стекло 80",
+        "price": 28435.77,
+        "rating": 2.1,
+        "category": "Книги",
+        "in_stock": false
+    },
+    {
+        "id": 218,
+        "name": "Кабель 12",
+        "price": 8599.88,
+        "rating": 1.1,
+        "category": "Электроника",
+        "in_stock": false
+    },
+    {
+        "id": 219,
+        "name": "Кабель 93",
+        "price": 37345.36,
+        "rating": 2.2,
+        "category": "Одежда",
+        "in_stock": false
+    },
+    {
+        "id": 220,
+        "name": "Чехол 74",
+        "price": 17602.8,
+        "rating": 4.1,
+        "category": "Одежда",
+        "in_stock": true
+    },
+    {
+        "id": 221,
+        "name": "Футболка 42",
+        "price": 48331.12,
+        "rating": 1.4,
+        "category": "Игрушки",
+        "in_stock": false
+    },
+    {
+        "id": 222,
+        "name": "Духи 44",
+        "price": 14957.84,
+        "rating": 2.2,
+        "category": "Красота",
+        "in_stock": false
+    },
+    {
+        "id": 223,
+        "name": "Наушники 42",
+        "price": 13559.12,
+        "rating": 2.9,
+        "category": "Обувь",
+        "in_stock": true
+    },
+    {
+        "id": 224,
+        "name": "Сумка 55",
+        "price": 19685.12,
+        "rating": 3.7,
+        "category": "Электроника",
+        "in_stock": false
+    },
+    {
+        "id": 225,
+        "name": "Мышь 80",
+        "price": 43496.1,
+        "rating": 2.2,
+        "category": "Книги",
+        "in_stock": true
+    },
+    {
+        "id": 226,
+        "name": "Наушники 45",
+        "price": 29980.49,
+        "rating": 4.3,
+        "category": "Книги",
+        "in_stock": true
+    },
+    {
+        "id": 227,
+        "name": "Духи 15",
+        "price": 14917.63,
+        "rating": 2.2,
+        "category": "Игрушки",
+        "in_stock": false
+    },
+    {
+        "id": 228,
+        "name": "Машинка 56",
+        "price": 17784.15,
+        "rating": 1.7,
+        "category": "Игрушки",
+        "in_stock": true
+    },
+    {
+        "id": 229,
+        "name": "Мышь 4",
+        "price": 30274.84,
+        "rating": 1.9,
+        "category": "Игрушки",
+        "in_stock": false
+    },
+    {
+        "id": 230,
+        "name": "Шампунь 54",
+        "price": 28678.29,
+        "rating": 5.0,
+        "category": "Спорт",
+        "in_stock": false
+    },
+    {
+        "id": 231,
+        "name": "Мяч 11",
+        "price": 48347.2,
+        "rating": 3.0,
+        "category": "Электроника",
+        "in_stock": true
+    },
+    {
+        "id": 232,
+        "name": "Телефон 1",
+        "price": 29388.84,
+        "rating": 4.1,
+        "category": "Обувь",
+        "in_stock": false
+    },
+    {
+        "id": 233,
+        "name": "Платье 39",
+        "price": 49342.18,
+        "rating": 2.7,
+        "category": "Обувь",
+        "in_stock": true
+    },
+    {
+        "id": 234,
+        "name": "Крем 66",
+        "price": 14645.89,
+        "rating": 3.4,
+        "category": "Книги",
+        "in_stock": true
+    },
+    {
+        "id": 235,
+        "name": "Мяч 78",
+        "price": 7121.57,
+        "rating": 2.4,
+        "category": "Одежда",
+        "in_stock": true
+    },
+    {
+        "id": 236,
+        "name": "Кукла 57",
+        "price": 41649.58,
+        "rating": 1.9,
+        "category": "Одежда",
+        "in_stock": false
+    },
+    {
+        "id": 237,
+        "name": "Шампунь 88",
+        "price": 30311.28,
+        "rating": 2.8,
+        "category": "Одежда",
+        "in_stock": true
+    },
+    {
+        "id": 238,
+        "name": "Монитор 80",
+        "price": 24844.16,
+        "rating": 1.9,
+        "category": "Одежда",
+        "in_stock": false
+    },
+    {
+        "id": 239,
+        "name": "Кабель 69",
+        "price": 15982.7,
+        "rating": 1.5,
+        "category": "Аксуссуары",
+        "in_stock": false
+    },
+    {
+        "id": 240,
+        "name": "Мяч 44",
+        "price": 23518.04,
+        "rating": 2.9,
+        "category": "Книги",
+        "in_stock": false
+    },
+    {
+        "id": 241,
+        "name": "Крем 14",
+        "price": 6237.82,
+        "rating": 1.3,
+        "category": "Одежда",
+        "in_stock": true
+    },
+    {
+        "id": 242,
+        "name": "Конструктор 44",
+        "price": 28428.3,
+        "rating": 2.1,
+        "category": "Спорт",
+        "in_stock": false
+    },
+    {
+        "id": 243,
+        "name": "Колонка 42",
+        "price": 46882.76,
+        "rating": 3.8,
+        "category": "Игрушки",
+        "in_stock": false
+    },
+    {
+        "id": 244,
+        "name": "Кабель 93",
+        "price": 37400.28,
+        "rating": 3.3,
+        "category": "Электроника",
+        "in_stock": false
+    },
+    {
+        "id": 245,
+        "name": "Зарядка 43",
+        "price": 46530.23,
+        "rating": 4.3,
+        "category": "Книги",
+        "in_stock": false
+    },
+    {
+        "id": 246,
+        "name": "Куртка 8",
+        "price": 1441.37,
+        "rating": 2.2,
+        "category": "Обувь",
+        "in_stock": false
+    },
+    {
+        "id": 247,
+        "name": "Кабель 63",
+        "price": 33488.04,
+        "rating": 1.8,
+        "category": "Спорт",
+        "in_stock": false
+    },
+    {
+        "id": 248,
+        "name": "Колонка 64",
+        "price": 10184.38,
+        "rating": 4.3,
+        "category": "Красота",
+        "in_stock": false
+    },
+    {
+        "id": 249,
+        "name": "Клавиатура 38",
+        "price": 23284.59,
+        "rating": 1.1,
+        "category": "Обувь",
+        "in_stock": true
+    },
+    {
+        "id": 250,
+        "name": "Кофта 83",
+        "price": 10990.05,
+        "rating": 4.2,
+        "category": "Обувь",
+        "in_stock": false
+    },
+    {
+        "id": 251,
+        "name": "Рюкзак 100",
+        "price": 14510.29,
+        "rating": 3.1,
+        "category": "Электроника",
+        "in_stock": false
+    },
+    {
+        "id": 252,
+        "name": "Телефон 83",
+        "price": 23915.44,
+        "rating": 3.0,
+        "category": "Одежда",
+        "in_stock": false
+    },
+    {
+        "id": 253,
+        "name": "Клавиатура 15",
+        "price": 36363.3,
+        "rating": 3.2,
+        "category": "Аксуссуары",
+        "in_stock": true
+    },
+    {
+        "id": 254,
+        "name": "Рюкзак 85",
+        "price": 11181.52,
+        "rating": 2.6,
+        "category": "Электроника",
+        "in_stock": true
+    },
+    {
+        "id": 255,
+        "name": "Клавиатура 89",
+        "price": 7431.39,
+        "rating": 4.6,
+        "category": "Аксуссуары",
+        "in_stock": false
+    },
+    {
+        "id": 256,
+        "name": "Зарядка 80",
+        "price": 6646.04,
+        "rating": 4.4,
+        "category": "Спорт",
+        "in_stock": false
+    },
+    {
+        "id": 257,
+        "name": "Телефон 71",
+        "price": 41829.76,
+        "rating": 4.2,
+        "category": "Спорт",
+        "in_stock": true
+    },
+    {
+        "id": 258,
+        "name": "Мяч 51",
+        "price": 39370.62,
+        "rating": 5.0,
+        "category": "Обувь",
+        "in_stock": true
+    },
+    {
+        "id": 259,
+        "name": "Сумка 2",
+        "price": 125.98,
+        "rating": 1.3,
+        "category": "Обувь",
+        "in_stock": true
+    },
+    {
+        "id": 260,
+        "name": "Наушники 14",
+        "price": 34904.31,
+        "rating": 2.3,
+        "category": "Спорт",
+        "in_stock": false
+    },
+    {
+        "id": 261,
+        "name": "Мышь 77",
+        "price": 17470.55,
+        "rating": 1.9,
+        "category": "Книги",
+        "in_stock": false
+    },
+    {
+        "id": 262,
+        "name": "Кабель 44",
+        "price": 10443.27,
+        "rating": 1.2,
+        "category": "Электроника",
+        "in_stock": true
+    },
+    {
+        "id": 263,
+        "name": "Крем 28",
+        "price": 46673.47,
+        "rating": 1.5,
+        "category": "Красота",
+        "in_stock": false
+    },
+    {
+        "id": 264,
+        "name": "Зарядка 31",
+        "price": 35129.45,
+        "rating": 1.8,
+        "category": "Спорт",
+        "in_stock": true
+    },
+    {
+        "id": 265,
+        "name": "Мяч 43",
+        "price": 3620.66,
+        "rating": 1.2,
+        "category": "Игрушки",
+        "in_stock": false
+    },
+    {
+        "id": 266,
+        "name": "Сумка 50",
+        "price": 684.71,
+        "rating": 4.5,
+        "category": "Спорт",
+        "in_stock": false
+    },
+    {
+        "id": 267,
+        "name": "Стекло 82",
+        "price": 26375.15,
+        "rating": 1.5,
+        "category": "Книги",
+        "in_stock": false
+    },
+    {
+        "id": 268,
+        "name": "Джинсы 54",
+        "price": 2522.23,
+        "rating": 2.6,
+        "category": "Красота",
+        "in_stock": false
+    },
+    {
+        "id": 269,
+        "name": "Крем 7",
+        "price": 18222.14,
+        "rating": 3.1,
+        "category": "Спорт",
+        "in_stock": false
+    },
+    {
+        "id": 270,
+        "name": "Джинсы 46",
+        "price": 388.79,
+        "rating": 3.8,
+        "category": "Аксуссуары",
+        "in_stock": true
+    },
+    {
+        "id": 271,
+        "name": "Куртка 99",
+        "price": 42973.16,
+        "rating": 4.0,
+        "category": "Электроника",
+        "in_stock": true
+    },
+    {
+        "id": 272,
+        "name": "Кабель 40",
+        "price": 25459.76,
+        "rating": 2.8,
+        "category": "Одежда",
+        "in_stock": false
+    },
+    {
+        "id": 273,
+        "name": "Ролики 14",
+        "price": 4688.31,
+        "rating": 3.0,
+        "category": "Одежда",
+        "in_stock": false
+    },
+    {
+        "id": 274,
+        "name": "Шампунь 2",
+        "price": 34309.93,
+        "rating": 3.8,
+        "category": "Игрушки",
+        "in_stock": true
+    },
+    {
+        "id": 275,
+        "name": "Колонка 63",
+        "price": 15190.63,
+        "rating": 1.6,
+        "category": "Обувь",
+        "in_stock": true
+    },
+    {
+        "id": 276,
+        "name": "Клавиатура 45",
+        "price": 3601.8,
+        "rating": 1.9,
+        "category": "Электроника",
+        "in_stock": false
+    },
+    {
+        "id": 277,
+        "name": "Кабель 72",
+        "price": 13023.17,
+        "rating": 3.1,
+        "category": "Электроника",
+        "in_stock": false
+    },
+    {
+        "id": 278,
+        "name": "Кукла 36",
+        "price": 31200.74,
+        "rating": 3.1,
+        "category": "Электроника",
+        "in_stock": false
+    },
+    {
+        "id": 279,
+        "name": "Духи 96",
+        "price": 17423.79,
+        "rating": 2.1,
+        "category": "Аксуссуары",
+        "in_stock": true
+    },
+    {
+        "id": 280,
+        "name": "Мышь 99",
+        "price": 38004.99,
+        "rating": 2.1,
+        "category": "Электроника",
+        "in_stock": true
+    },
+    {
+        "id": 281,
+        "name": "Наушники 20",
+        "price": 28854.43,
+        "rating": 2.8,
+        "category": "Книги",
+        "in_stock": false
+    },
+    {
+        "id": 282,
+        "name": "Чехол 90",
+        "price": 49767.78,
+        "rating": 4.6,
+        "category": "Аксуссуары",
+        "in_stock": false
+    },
+    {
+        "id": 283,
+        "name": "Чехол 6",
+        "price": 48712.82,
+        "rating": 4.0,
+        "category": "Спорт",
+        "in_stock": false
+    },
+    {
+        "id": 284,
+        "name": "Футболка 18",
+        "price": 2261.31,
+        "rating": 3.6,
+        "category": "Спорт",
+        "in_stock": false
+    },
+    {
+        "id": 285,
+        "name": "Шампунь 86",
+        "price": 29545.27,
+        "rating": 4.3,
+        "category": "Электроника",
+        "in_stock": false
+    },
+    {
+        "id": 286,
+        "name": "Сумка 54",
+        "price": 21767.46,
+        "rating": 2.5,
+        "category": "Книги",
+        "in_stock": false
+    },
+    {
+        "id": 287,
+        "name": "Планшет 82",
+        "price": 8725.47,
+        "rating": 1.9,
+        "category": "Одежда",
+        "in_stock": false
+    },
+    {
+        "id": 288,
+        "name": "Кофта 67",
+        "price": 24964.03,
+        "rating": 1.1,
+        "category": "Книги",
+        "in_stock": false
+    },
+    {
+        "id": 289,
+        "name": "Кофта 68",
+        "price": 6844.56,
+        "rating": 2.1,
+        "category": "Игрушки",
+        "in_stock": true
+    },
+    {
+        "id": 290,
+        "name": "Крем 15",
+        "price": 45796.24,
+        "rating": 2.7,
+        "category": "Обувь",
+        "in_stock": true
+    },
+    {
+        "id": 291,
+        "name": "Наушники 64",
+        "price": 4687.47,
+        "rating": 1.3,
+        "category": "Аксуссуары",
+        "in_stock": true
+    },
+    {
+        "id": 292,
+        "name": "Кабель 86",
+        "price": 47502.14,
+        "rating": 4.3,
+        "category": "Спорт",
+        "in_stock": true
+    },
+    {
+        "id": 293,
+        "name": "Планшет 41",
+        "price": 41758.87,
+        "rating": 4.3,
+        "category": "Спорт",
+        "in_stock": false
+    },
+    {
+        "id": 294,
+        "name": "Чехол 76",
+        "price": 32183.63,
+        "rating": 3.0,
+        "category": "Игрушки",
+        "in_stock": false
+    },
+    {
+        "id": 295,
+        "name": "Шампунь 22",
+        "price": 8286.95,
+        "rating": 1.5,
+        "category": "Красота",
+        "in_stock": true
+    },
+    {
+        "id": 296,
+        "name": "Клавиатура 42",
+        "price": 11537.53,
+        "rating": 2.7,
+        "category": "Обувь",
+        "in_stock": false
+    },
+    {
+        "id": 297,
+        "name": "Духи 39",
+        "price": 19578.39,
+        "rating": 1.1,
+        "category": "Книги",
+        "in_stock": false
+    },
+    {
+        "id": 298,
+        "name": "Наушники 95",
+        "price": 31690.58,
+        "rating": 4.4,
+        "category": "Красота",
+        "in_stock": false
+    },
+    {
+        "id": 299,
+        "name": "Куртка 6",
+        "price": 26874.57,
+        "rating": 4.3,
+        "category": "Игрушки",
+        "in_stock": false
+    },
+    {
+        "id": 300,
+        "name": "Наушники 66",
+        "price": 42123.47,
+        "rating": 3.7,
+        "category": "Аксуссуары",
+        "in_stock": true
+    },
+    {
+        "id": 301,
+        "name": "Наушники 70",
+        "price": 43995.97,
+        "rating": 4.0,
+        "category": "Спорт",
+        "in_stock": false
+    },
+    {
+        "id": 302,
+        "name": "Куртка 70",
+        "price": 16549.42,
+        "rating": 5.0,
+        "category": "Обувь",
+        "in_stock": false
+    },
+    {
+        "id": 303,
+        "name": "Крем 22",
+        "price": 7542.7,
+        "rating": 2.6,
+        "category": "Аксуссуары",
+        "in_stock": true
+    },
+    {
+        "id": 304,
+        "name": "Футболка 49",
+        "price": 3880.29,
+        "rating": 4.4,
+        "category": "Электроника",
+        "in_stock": true
+    },
+    {
+        "id": 305,
+        "name": "Чехол 94",
+        "price": 22273.9,
+        "rating": 4.4,
+        "category": "Аксуссуары",
+        "in_stock": false
+    },
+    {
+        "id": 306,
+        "name": "Кабель 32",
+        "price": 7154.83,
+        "rating": 2.3,
+        "category": "Обувь",
+        "in_stock": false
+    },
+    {
+        "id": 307,
+        "name": "Чехол 34",
+        "price": 4678.45,
+        "rating": 1.9,
+        "category": "Электроника",
+        "in_stock": false
+    },
+    {
+        "id": 308,
+        "name": "Зарядка 28",
+        "price": 11010.89,
+        "rating": 2.4,
+        "category": "Спорт",
+        "in_stock": true
+    },
+    {
+        "id": 309,
+        "name": "Ролики 61",
+        "price": 47162.35,
+        "rating": 1.7,
+        "category": "Спорт",
+        "in_stock": false
+    },
+    {
+        "id": 310,
+        "name": "Стекло 17",
+        "price": 29881.89,
+        "rating": 3.7,
+        "category": "Спорт",
+        "in_stock": false
+    },
+    {
+        "id": 311,
+        "name": "Крем 24",
+        "price": 34553.58,
+        "rating": 1.6,
+        "category": "Обувь",
+        "in_stock": false
+    },
+    {
+        "id": 312,
+        "name": "Конструктор 88",
+        "price": 29583.66,
+        "rating": 3.5,
+        "category": "Красота",
+        "in_stock": true
+    },
+    {
+        "id": 313,
+        "name": "Журнал 47",
+        "price": 16168.99,
+        "rating": 4.9,
+        "category": "Игрушки",
+        "in_stock": false
+    },
+    {
+        "id": 314,
+        "name": "Колонка 78",
+        "price": 42736.97,
+        "rating": 2.1,
+        "category": "Красота",
+        "in_stock": true
+    },
+    {
+        "id": 315,
+        "name": "Зарядка 84",
+        "price": 7426.83,
+        "rating": 4.6,
+        "category": "Спорт",
+        "in_stock": true
+    },
+    {
+        "id": 316,
+        "name": "Наушники 47",
+        "price": 33780.03,
+        "rating": 2.1,
+        "category": "Красота",
+        "in_stock": false
+    },
+    {
+        "id": 317,
+        "name": "Колонка 91",
+        "price": 6511.61,
+        "rating": 4.2,
+        "category": "Одежда",
+        "in_stock": false
+    },
+    {
+        "id": 318,
+        "name": "Конструктор 55",
+        "price": 16565.29,
+        "rating": 1.0,
+        "category": "Спорт",
+        "in_stock": true
+    },
+    {
+        "id": 319,
+        "name": "Сумка 47",
+        "price": 45418.94,
+        "rating": 2.2,
+        "category": "Красота",
+        "in_stock": true
+    },
+    {
+        "id": 320,
+        "name": "Наушники 26",
+        "price": 29681.57,
+        "rating": 1.9,
+        "category": "Спорт",
+        "in_stock": true
+    },
+    {
+        "id": 321,
+        "name": "Кабель 98",
+        "price": 6404.99,
+        "rating": 4.5,
+        "category": "Красота",
+        "in_stock": false
+    },
+    {
+        "id": 322,
+        "name": "Чехол 12",
+        "price": 369.85,
+        "rating": 4.5,
+        "category": "Спорт",
+        "in_stock": true
+    },
+    {
+        "id": 323,
+        "name": "Крем 96",
+        "price": 33032.0,
+        "rating": 1.5,
+        "category": "Красота",
+        "in_stock": true
+    },
+    {
+        "id": 324,
+        "name": "Клавиатура 43",
+        "price": 4222.46,
+        "rating": 1.1,
+        "category": "Красота",
+        "in_stock": false
+    },
+    {
+        "id": 325,
+        "name": "Куртка 73",
+        "price": 47904.57,
+        "rating": 2.5,
+        "category": "Одежда",
+        "in_stock": true
+    },
+    {
+        "id": 326,
+        "name": "Ролики 29",
+        "price": 13418.74,
+        "rating": 2.8,
+        "category": "Спорт",
+        "in_stock": false
+    },
+    {
+        "id": 327,
+        "name": "Журнал 49",
+        "price": 6539.3,
+        "rating": 3.2,
+        "category": "Одежда",
+        "in_stock": false
+    },
+    {
+        "id": 328,
+        "name": "Конструктор 42",
+        "price": 13456.66,
+        "rating": 2.2,
+        "category": "Игрушки",
+        "in_stock": true
+    },
+    {
+        "id": 329,
+        "name": "Чехол 100",
+        "price": 36649.34,
+        "rating": 2.1,
+        "category": "Аксуссуары",
+        "in_stock": false
+    },
+    {
+        "id": 330,
+        "name": "Наушники 31",
+        "price": 37336.92,
+        "rating": 3.7,
+        "category": "Книги",
+        "in_stock": true
+    },
+    {
+        "id": 331,
+        "name": "Журнал 5",
+        "price": 2342.3,
+        "rating": 1.6,
+        "category": "Спорт",
+        "in_stock": true
+    },
+    {
+        "id": 332,
+        "name": "Шампунь 7",
+        "price": 3361.92,
+        "rating": 4.9,
+        "category": "Книги",
+        "in_stock": true
+    },
+    {
+        "id": 333,
+        "name": "Ролики 17",
+        "price": 45717.14,
+        "rating": 3.1,
+        "category": "Игрушки",
+        "in_stock": true
+    },
+    {
+        "id": 334,
+        "name": "Колонка 52",
+        "price": 14194.17,
+        "rating": 2.2,
+        "category": "Одежда",
+        "in_stock": true
+    },
+    {
+        "id": 335,
+        "name": "Сумка 81",
+        "price": 7146.13,
+        "rating": 3.3,
+        "category": "Спорт",
+        "in_stock": true
+    },
+    {
+        "id": 336,
+        "name": "Монитор 83",
+        "price": 25740.78,
+        "rating": 3.1,
+        "category": "Одежда",
+        "in_stock": true
+    },
+    {
+        "id": 337,
+        "name": "Кабель 33",
+        "price": 25003.15,
+        "rating": 2.4,
+        "category": "Электроника",
+        "in_stock": false
+    },
+    {
+        "id": 338,
+        "name": "Зарядка 24",
+        "price": 44207.86,
+        "rating": 4.1,
+        "category": "Одежда",
+        "in_stock": false
+    },
+    {
+        "id": 339,
+        "name": "Шампунь 79",
+        "price": 35703.16,
+        "rating": 1.2,
+        "category": "Обувь",
+        "in_stock": true
+    },
+    {
+        "id": 340,
+        "name": "Футболка 37",
+        "price": 13631.9,
+        "rating": 2.9,
+        "category": "Одежда",
+        "in_stock": false
+    },
+    {
+        "id": 341,
+        "name": "Стекло 48",
+        "price": 38717.15,
+        "rating": 1.7,
+        "category": "Обувь",
+        "in_stock": true
+    },
+    {
+        "id": 342,
+        "name": "Клавиатура 96",
+        "price": 6181.08,
+        "rating": 2.7,
+        "category": "Аксуссуары",
+        "in_stock": false
+    },
+    {
+        "id": 343,
+        "name": "Стекло 72",
+        "price": 37211.27,
+        "rating": 1.1,
+        "category": "Книги",
+        "in_stock": false
+    },
+    {
+        "id": 344,
+        "name": "Духи 81",
+        "price": 5384.75,
+        "rating": 3.4,
+        "category": "Игрушки",
+        "in_stock": false
+    },
+    {
+        "id": 345,
+        "name": "Зарядка 49",
+        "price": 38714.19,
+        "rating": 4.2,
+        "category": "Игрушки",
+        "in_stock": false
+    },
+    {
+        "id": 346,
+        "name": "Стекло 37",
+        "price": 24153.08,
+        "rating": 4.2,
+        "category": "Спорт",
+        "in_stock": false
+    },
+    {
+        "id": 347,
+        "name": "Мышь 83",
+        "price": 47745.83,
+        "rating": 4.2,
+        "category": "Книги",
+        "in_stock": true
+    },
+    {
+        "id": 348,
+        "name": "Рюкзак 61",
+        "price": 49143.31,
+        "rating": 2.0,
+        "category": "Аксуссуары",
+        "in_stock": false
+    },
+    {
+        "id": 349,
+        "name": "Кукла 42",
+        "price": 19093.19,
+        "rating": 5.0,
+        "category": "Обувь",
+        "in_stock": true
+    },
+    {
+        "id": 350,
+        "name": "Шампунь 42",
+        "price": 26901.15,
+        "rating": 1.5,
+        "category": "Спорт",
+        "in_stock": true
+    },
+    {
+        "id": 351,
+        "name": "Мышь 97",
+        "price": 20081.45,
+        "rating": 4.9,
+        "category": "Обувь",
+        "in_stock": false
+    },
+    {
+        "id": 352,
+        "name": "Джинсы 50",
+        "price": 1498.51,
+        "rating": 4.1,
+        "category": "Книги",
+        "in_stock": false
+    },
+    {
+        "id": 353,
+        "name": "Стекло 12",
+        "price": 41536.71,
+        "rating": 2.6,
+        "category": "Электроника",
+        "in_stock": false
+    },
+    {
+        "id": 354,
+        "name": "Мяч 61",
+        "price": 17328.32,
+        "rating": 3.2,
+        "category": "Аксуссуары",
+        "in_stock": false
+    },
+    {
+        "id": 355,
+        "name": "Куртка 37",
+        "price": 30295.91,
+        "rating": 4.0,
+        "category": "Красота",
+        "in_stock": false
+    },
+    {
+        "id": 356,
+        "name": "Журнал 14",
+        "price": 47724.81,
+        "rating": 4.0,
+        "category": "Одежда",
+        "in_stock": true
+    },
+    {
+        "id": 357,
+        "name": "Конструктор 21",
+        "price": 45735.54,
+        "rating": 4.7,
+        "category": "Электроника",
+        "in_stock": true
+    },
+    {
+        "id": 358,
+        "name": "Зарядка 97",
+        "price": 26132.69,
+        "rating": 1.4,
+        "category": "Книги",
+        "in_stock": false
+    },
+    {
+        "id": 359,
+        "name": "Велосипед 20",
+        "price": 6309.8,
+        "rating": 1.3,
+        "category": "Игрушки",
+        "in_stock": true
+    },
+    {
+        "id": 360,
+        "name": "Ролики 27",
+        "price": 35464.28,
+        "rating": 2.9,
+        "category": "Одежда",
+        "in_stock": true
+    },
+    {
+        "id": 361,
+        "name": "Сумка 90",
+        "price": 30440.59,
+        "rating": 2.8,
+        "category": "Красота",
+        "in_stock": true
+    },
+    {
+        "id": 362,
+        "name": "Кабель 78",
+        "price": 16263.5,
+        "rating": 3.7,
+        "category": "Книги",
+        "in_stock": true
+    },
+    {
+        "id": 363,
+        "name": "Кукла 19",
+        "price": 1990.46,
+        "rating": 3.9,
+        "category": "Электроника",
+        "in_stock": false
+    },
+    {
+        "id": 364,
+        "name": "Мяч 64",
+        "price": 11200.0,
+        "rating": 4.6,
+        "category": "Спорт",
+        "in_stock": true
+    },
+    {
+        "id": 365,
+        "name": "Кабель 50",
+        "price": 37572.05,
+        "rating": 1.1,
+        "category": "Электроника",
+        "in_stock": false
+    },
+    {
+        "id": 366,
+        "name": "Джинсы 89",
+        "price": 46455.41,
+        "rating": 1.7,
+        "category": "Электроника",
+        "in_stock": false
+    },
+    {
+        "id": 367,
+        "name": "Футболка 58",
+        "price": 17685.69,
+        "rating": 2.8,
+        "category": "Красота",
+        "in_stock": false
+    },
+    {
+        "id": 368,
+        "name": "Чехол 26",
+        "price": 24317.34,
+        "rating": 4.5,
+        "category": "Красота",
+        "in_stock": false
+    },
+    {
+        "id": 369,
+        "name": "Машинка 16",
+        "price": 33271.6,
+        "rating": 3.3,
+        "category": "Спорт",
+        "in_stock": true
+    },
+    {
+        "id": 370,
+        "name": "Куртка 82",
+        "price": 1188.15,
+        "rating": 4.3,
+        "category": "Игрушки",
+        "in_stock": true
+    },
+    {
+        "id": 371,
+        "name": "Колонка 68",
+        "price": 26983.15,
+        "rating": 4.7,
+        "category": "Аксуссуары",
+        "in_stock": true
+    },
+    {
+        "id": 372,
+        "name": "Шампунь 1",
+        "price": 19354.32,
+        "rating": 4.7,
+        "category": "Одежда",
+        "in_stock": false
+    },
+    {
+        "id": 373,
+        "name": "Машинка 66",
+        "price": 31033.66,
+        "rating": 1.2,
+        "category": "Одежда",
+        "in_stock": false
+    },
+    {
+        "id": 374,
+        "name": "Колонка 95",
+        "price": 43005.43,
+        "rating": 3.2,
+        "category": "Игрушки",
+        "in_stock": true
+    },
+    {
+        "id": 375,
+        "name": "Сумка 53",
+        "price": 35887.36,
+        "rating": 4.0,
+        "category": "Спорт",
+        "in_stock": true
+    },
+    {
+        "id": 376,
+        "name": "Конструктор 92",
+        "price": 29099.63,
+        "rating": 3.0,
+        "category": "Электроника",
+        "in_stock": false
+    },
+    {
+        "id": 377,
+        "name": "Планшет 25",
+        "price": 48839.8,
+        "rating": 1.7,
+        "category": "Обувь",
+        "in_stock": false
+    },
+    {
+        "id": 378,
+        "name": "Крем 66",
+        "price": 31811.27,
+        "rating": 1.5,
+        "category": "Игрушки",
+        "in_stock": false
+    },
+    {
+        "id": 379,
+        "name": "Чехол 59",
+        "price": 20675.95,
+        "rating": 2.7,
+        "category": "Книги",
+        "in_stock": false
+    },
+    {
+        "id": 380,
+        "name": "Монитор 22",
+        "price": 6358.7,
+        "rating": 1.0,
+        "category": "Обувь",
+        "in_stock": true
+    },
+    {
+        "id": 381,
+        "name": "Конструктор 95",
+        "price": 26509.22,
+        "rating": 2.6,
+        "category": "Спорт",
+        "in_stock": false
+    },
+    {
+        "id": 382,
+        "name": "Машинка 25",
+        "price": 10642.28,
+        "rating": 3.8,
+        "category": "Игрушки",
+        "in_stock": false
+    },
+    {
+        "id": 383,
+        "name": "Кукла 15",
+        "price": 42134.67,
+        "rating": 4.1,
+        "category": "Одежда",
+        "in_stock": false
+    },
+    {
+        "id": 384,
+        "name": "Велосипед 15",
+        "price": 34218.58,
+        "rating": 3.7,
+        "category": "Аксуссуары",
+        "in_stock": false
+    },
+    {
+        "id": 385,
+        "name": "Планшет 3",
+        "price": 11630.25,
+        "rating": 4.4,
+        "category": "Спорт",
+        "in_stock": true
+    },
+    {
+        "id": 386,
+        "name": "Журнал 27",
+        "price": 34718.28,
+        "rating": 1.8,
+        "category": "Книги",
+        "in_stock": true
+    },
+    {
+        "id": 387,
+        "name": "Шампунь 26",
+        "price": 40761.75,
+        "rating": 2.8,
+        "category": "Спорт",
+        "in_stock": false
+    },
+    {
+        "id": 388,
+        "name": "Крем 58",
+        "price": 23614.61,
+        "rating": 4.8,
+        "category": "Книги",
+        "in_stock": false
+    },
+    {
+        "id": 389,
+        "name": "Кофта 58",
+        "price": 22584.01,
+        "rating": 3.8,
+        "category": "Красота",
+        "in_stock": false
+    },
+    {
+        "id": 390,
+        "name": "Кукла 53",
+        "price": 47639.04,
+        "rating": 1.1,
+        "category": "Обувь",
+        "in_stock": true
+    },
+    {
+        "id": 391,
+        "name": "Шампунь 54",
+        "price": 33676.71,
+        "rating": 2.4,
+        "category": "Книги",
+        "in_stock": false
+    },
+    {
+        "id": 392,
+        "name": "Мышь 8",
+        "price": 2984.42,
+        "rating": 4.7,
+        "category": "Игрушки",
+        "in_stock": false
+    },
+    {
+        "id": 393,
+        "name": "Крем 22",
+        "price": 14048.25,
+        "rating": 1.4,
+        "category": "Игрушки",
+        "in_stock": true
+    },
+    {
+        "id": 394,
+        "name": "Рюкзак 57",
+        "price": 2807.24,
+        "rating": 1.6,
+        "category": "Обувь",
+        "in_stock": false
+    },
+    {
+        "id": 395,
+        "name": "Футболка 53",
+        "price": 34044.77,
+        "rating": 3.6,
+        "category": "Игрушки",
+        "in_stock": true
+    },
+    {
+        "id": 396,
+        "name": "Машинка 62",
+        "price": 925.95,
+        "rating": 3.0,
+        "category": "Спорт",
+        "in_stock": false
+    },
+    {
+        "id": 397,
+        "name": "Футболка 16",
+        "price": 38900.94,
+        "rating": 3.1,
+        "category": "Одежда",
+        "in_stock": false
+    },
+    {
+        "id": 398,
+        "name": "Джинсы 66",
+        "price": 8540.69,
+        "rating": 3.0,
+        "category": "Красота",
+        "in_stock": false
+    },
+    {
+        "id": 399,
+        "name": "Машинка 47",
+        "price": 29816.73,
+        "rating": 2.5,
+        "category": "Обувь",
+        "in_stock": false
+    },
+    {
+        "id": 400,
+        "name": "Кабель 60",
+        "price": 16938.33,
+        "rating": 2.3,
+        "category": "Спорт",
+        "in_stock": true
+    },
+    {
+        "id": 401,
+        "name": "Куртка 36",
+        "price": 1340.43,
+        "rating": 1.0,
+        "category": "Книги",
+        "in_stock": true
+    },
+    {
+        "id": 402,
+        "name": "Мяч 18",
+        "price": 42507.54,
+        "rating": 1.4,
+        "category": "Книги",
+        "in_stock": true
+    },
+    {
+        "id": 403,
+        "name": "Сумка 8",
+        "price": 18357.33,
+        "rating": 4.5,
+        "category": "Игрушки",
+        "in_stock": true
+    },
+    {
+        "id": 404,
+        "name": "Крем 93",
+        "price": 23745.77,
+        "rating": 4.6,
+        "category": "Одежда",
+        "in_stock": true
+    },
+    {
+        "id": 405,
+        "name": "Колонка 39",
+        "price": 40265.68,
+        "rating": 3.5,
+        "category": "Обувь",
+        "in_stock": true
+    },
+    {
+        "id": 406,
+        "name": "Машинка 70",
+        "price": 47193.51,
+        "rating": 4.3,
+        "category": "Спорт",
+        "in_stock": true
+    },
+    {
+        "id": 407,
+        "name": "Наушники 100",
+        "price": 36255.11,
+        "rating": 1.7,
+        "category": "Спорт",
+        "in_stock": false
+    },
+    {
+        "id": 408,
+        "name": "Куртка 9",
+        "price": 11038.27,
+        "rating": 4.0,
+        "category": "Одежда",
+        "in_stock": false
+    },
+    {
+        "id": 409,
+        "name": "Журнал 83",
+        "price": 14909.36,
+        "rating": 3.5,
+        "category": "Одежда",
+        "in_stock": false
+    },
+    {
+        "id": 410,
+        "name": "Телефон 55",
+        "price": 41818.21,
+        "rating": 4.0,
+        "category": "Обувь",
+        "in_stock": true
+    },
+    {
+        "id": 411,
+        "name": "Мяч 97",
+        "price": 42070.3,
+        "rating": 1.1,
+        "category": "Игрушки",
+        "in_stock": true
+    },
+    {
+        "id": 412,
+        "name": "Кукла 94",
+        "price": 8897.33,
+        "rating": 4.7,
+        "category": "Игрушки",
+        "in_stock": true
+    },
+    {
+        "id": 413,
+        "name": "Мяч 64",
+        "price": 40506.65,
+        "rating": 2.8,
+        "category": "Аксуссуары",
+        "in_stock": true
+    },
+    {
+        "id": 414,
+        "name": "Мяч 93",
+        "price": 19362.72,
+        "rating": 2.4,
+        "category": "Обувь",
+        "in_stock": false
+    },
+    {
+        "id": 415,
+        "name": "Наушники 17",
+        "price": 12541.15,
+        "rating": 2.4,
+        "category": "Игрушки",
+        "in_stock": true
+    },
+    {
+        "id": 416,
+        "name": "Стекло 76",
+        "price": 2102.85,
+        "rating": 4.4,
+        "category": "Красота",
+        "in_stock": false
+    },
+    {
+        "id": 417,
+        "name": "Мышь 45",
+        "price": 10176.63,
+        "rating": 3.1,
+        "category": "Книги",
+        "in_stock": true
+    },
+    {
+        "id": 418,
+        "name": "Журнал 38",
+        "price": 8790.66,
+        "rating": 2.6,
+        "category": "Одежда",
+        "in_stock": true
+    },
+    {
+        "id": 419,
+        "name": "Наушники 59",
+        "price": 40648.28,
+        "rating": 5.0,
+        "category": "Спорт",
+        "in_stock": false
+    },
+    {
+        "id": 420,
+        "name": "Мышь 35",
+        "price": 37980.92,
+        "rating": 2.7,
+        "category": "Аксуссуары",
+        "in_stock": false
+    },
+    {
+        "id": 421,
+        "name": "Духи 29",
+        "price": 46470.28,
+        "rating": 4.1,
+        "category": "Красота",
+        "in_stock": false
+    },
+    {
+        "id": 422,
+        "name": "Чехол 57",
+        "price": 42152.81,
+        "rating": 1.1,
+        "category": "Одежда",
+        "in_stock": false
+    },
+    {
+        "id": 423,
+        "name": "Мышь 45",
+        "price": 27778.16,
+        "rating": 4.5,
+        "category": "Аксуссуары",
+        "in_stock": false
+    },
+    {
+        "id": 424,
+        "name": "Платье 94",
+        "price": 336.28,
+        "rating": 2.8,
+        "category": "Книги",
+        "in_stock": false
+    },
+    {
+        "id": 425,
+        "name": "Куртка 93",
+        "price": 26091.43,
+        "rating": 1.5,
+        "category": "Игрушки",
+        "in_stock": true
+    },
+    {
+        "id": 426,
+        "name": "Шампунь 57",
+        "price": 40889.69,
+        "rating": 2.1,
+        "category": "Обувь",
+        "in_stock": true
+    },
+    {
+        "id": 427,
+        "name": "Духи 88",
+        "price": 16330.58,
+        "rating": 1.9,
+        "category": "Электроника",
+        "in_stock": true
+    },
+    {
+        "id": 428,
+        "name": "Куртка 15",
+        "price": 10999.97,
+        "rating": 4.2,
+        "category": "Спорт",
+        "in_stock": true
+    },
+    {
+        "id": 429,
+        "name": "Планшет 76",
+        "price": 29768.8,
+        "rating": 4.2,
+        "category": "Игрушки",
+        "in_stock": true
+    },
+    {
+        "id": 430,
+        "name": "Платье 97",
+        "price": 27339.51,
+        "rating": 3.3,
+        "category": "Обувь",
+        "in_stock": false
+    },
+    {
+        "id": 431,
+        "name": "Платье 16",
+        "price": 12619.27,
+        "rating": 1.6,
+        "category": "Одежда",
+        "in_stock": true
+    },
+    {
+        "id": 432,
+        "name": "Клавиатура 72",
+        "price": 43968.53,
+        "rating": 3.3,
+        "category": "Одежда",
+        "in_stock": true
+    },
+    {
+        "id": 433,
+        "name": "Платье 10",
+        "price": 45111.63,
+        "rating": 1.3,
+        "category": "Аксуссуары",
+        "in_stock": false
+    },
+    {
+        "id": 434,
+        "name": "Зарядка 99",
+        "price": 19088.9,
+        "rating": 1.5,
+        "category": "Красота",
+        "in_stock": false
+    },
+    {
+        "id": 435,
+        "name": "Журнал 38",
+        "price": 18765.98,
+        "rating": 4.1,
+        "category": "Книги",
+        "in_stock": true
+    },
+    {
+        "id": 436,
+        "name": "Конструктор 93",
+        "price": 35339.1,
+        "rating": 1.2,
+        "category": "Одежда",
+        "in_stock": false
+    },
+    {
+        "id": 437,
+        "name": "Духи 24",
+        "price": 9981.18,
+        "rating": 2.7,
+        "category": "Спорт",
+        "in_stock": false
+    },
+    {
+        "id": 438,
+        "name": "Кукла 70",
+        "price": 11091.4,
+        "rating": 3.3,
+        "category": "Обувь",
+        "in_stock": true
+    },
+    {
+        "id": 439,
+        "name": "Журнал 6",
+        "price": 13641.92,
+        "rating": 4.6,
+        "category": "Красота",
+        "in_stock": true
+    },
+    {
+        "id": 440,
+        "name": "Кофта 5",
+        "price": 6207.35,
+        "rating": 3.0,
+        "category": "Красота",
+        "in_stock": true
+    },
+    {
+        "id": 441,
+        "name": "Телефон 17",
+        "price": 36384.53,
+        "rating": 3.7,
+        "category": "Аксуссуары",
+        "in_stock": false
+    },
+    {
+        "id": 442,
+        "name": "Рюкзак 22",
+        "price": 35820.45,
+        "rating": 2.8,
+        "category": "Книги",
+        "in_stock": false
+    },
+    {
+        "id": 443,
+        "name": "Колонка 65",
+        "price": 30901.51,
+        "rating": 1.1,
+        "category": "Спорт",
+        "in_stock": false
+    },
+    {
+        "id": 444,
+        "name": "Планшет 15",
+        "price": 23978.8,
+        "rating": 2.5,
+        "category": "Красота",
+        "in_stock": true
+    },
+    {
+        "id": 445,
+        "name": "Куртка 52",
+        "price": 16357.48,
+        "rating": 3.3,
+        "category": "Аксуссуары",
+        "in_stock": true
+    },
+    {
+        "id": 446,
+        "name": "Платье 16",
+        "price": 20478.39,
+        "rating": 4.7,
+        "category": "Обувь",
+        "in_stock": false
+    },
+    {
+        "id": 447,
+        "name": "Мяч 59",
+        "price": 16773.43,
+        "rating": 1.3,
+        "category": "Красота",
+        "in_stock": true
+    },
+    {
+        "id": 448,
+        "name": "Рюкзак 59",
+        "price": 1879.95,
+        "rating": 2.3,
+        "category": "Обувь",
+        "in_stock": false
+    },
+    {
+        "id": 449,
+        "name": "Машинка 95",
+        "price": 18313.56,
+        "rating": 5.0,
+        "category": "Красота",
+        "in_stock": false
+    },
+    {
+        "id": 450,
+        "name": "Сумка 56",
+        "price": 3706.88,
+        "rating": 3.3,
+        "category": "Обувь",
+        "in_stock": true
+    },
+    {
+        "id": 451,
+        "name": "Клавиатура 15",
+        "price": 25373.89,
+        "rating": 2.6,
+        "category": "Аксуссуары",
+        "in_stock": false
+    },
+    {
+        "id": 452,
+        "name": "Кукла 29",
+        "price": 4254.4,
+        "rating": 3.0,
+        "category": "Одежда",
+        "in_stock": false
+    },
+    {
+        "id": 453,
+        "name": "Мышь 63",
+        "price": 46052.17,
+        "rating": 4.9,
+        "category": "Обувь",
+        "in_stock": false
+    },
+    {
+        "id": 454,
+        "name": "Кофта 82",
+        "price": 3731.99,
+        "rating": 4.3,
+        "category": "Обувь",
+        "in_stock": false
+    },
+    {
+        "id": 455,
+        "name": "Чехол 69",
+        "price": 20895.0,
+        "rating": 3.6,
+        "category": "Одежда",
+        "in_stock": false
+    },
+    {
+        "id": 456,
+        "name": "Крем 49",
+        "price": 12932.11,
+        "rating": 4.9,
+        "category": "Электроника",
+        "in_stock": true
+    },
+    {
+        "id": 457,
+        "name": "Рюкзак 26",
+        "price": 18272.82,
+        "rating": 1.1,
+        "category": "Электроника",
+        "in_stock": true
+    },
+    {
+        "id": 458,
+        "name": "Велосипед 91",
+        "price": 20487.03,
+        "rating": 3.4,
+        "category": "Электроника",
+        "in_stock": false
+    },
+    {
+        "id": 459,
+        "name": "Телефон 48",
+        "price": 3198.69,
+        "rating": 3.1,
+        "category": "Аксуссуары",
+        "in_stock": true
+    },
+    {
+        "id": 460,
+        "name": "Рюкзак 5",
+        "price": 34206.71,
+        "rating": 4.8,
+        "category": "Красота",
+        "in_stock": false
+    },
+    {
+        "id": 461,
+        "name": "Духи 89",
+        "price": 24970.69,
+        "rating": 2.2,
+        "category": "Книги",
+        "in_stock": true
+    },
+    {
+        "id": 462,
+        "name": "Стекло 16",
+        "price": 19732.74,
+        "rating": 4.3,
+        "category": "Одежда",
+        "in_stock": true
+    },
+    {
+        "id": 463,
+        "name": "Ролики 81",
+        "price": 10787.68,
+        "rating": 4.0,
+        "category": "Одежда",
+        "in_stock": false
+    },
+    {
+        "id": 464,
+        "name": "Кабель 11",
+        "price": 9730.92,
+        "rating": 1.1,
+        "category": "Игрушки",
+        "in_stock": false
+    },
+    {
+        "id": 465,
+        "name": "Конструктор 10",
+        "price": 8595.1,
+        "rating": 2.1,
+        "category": "Игрушки",
+        "in_stock": false
+    },
+    {
+        "id": 466,
+        "name": "Планшет 54",
+        "price": 2616.3,
+        "rating": 1.3,
+        "category": "Книги",
+        "in_stock": false
+    },
+    {
+        "id": 467,
+        "name": "Крем 29",
+        "price": 37332.64,
+        "rating": 3.4,
+        "category": "Спорт",
+        "in_stock": true
+    },
+    {
+        "id": 468,
+        "name": "Конструктор 96",
+        "price": 16437.81,
+        "rating": 1.4,
+        "category": "Игрушки",
+        "in_stock": false
+    },
+    {
+        "id": 469,
+        "name": "Джинсы 55",
+        "price": 42223.68,
+        "rating": 4.3,
+        "category": "Обувь",
+        "in_stock": true
+    },
+    {
+        "id": 470,
+        "name": "Зарядка 72",
+        "price": 9180.37,
+        "rating": 2.9,
+        "category": "Аксуссуары",
+        "in_stock": false
+    },
+    {
+        "id": 471,
+        "name": "Футболка 67",
+        "price": 37802.42,
+        "rating": 3.0,
+        "category": "Игрушки",
+        "in_stock": true
+    },
+    {
+        "id": 472,
+        "name": "Конструктор 95",
+        "price": 27756.35,
+        "rating": 4.2,
+        "category": "Одежда",
+        "in_stock": true
+    },
+    {
+        "id": 473,
+        "name": "Крем 22",
+        "price": 351.06,
+        "rating": 4.7,
+        "category": "Обувь",
+        "in_stock": false
+    },
+    {
+        "id": 474,
+        "name": "Конструктор 69",
+        "price": 23486.84,
+        "rating": 4.8,
+        "category": "Красота",
+        "in_stock": false
+    },
+    {
+        "id": 475,
+        "name": "Клавиатура 24",
+        "price": 48012.85,
+        "rating": 1.5,
+        "category": "Одежда",
+        "in_stock": true
+    },
+    {
+        "id": 476,
+        "name": "Ролики 62",
+        "price": 46452.14,
+        "rating": 2.2,
+        "category": "Аксуссуары",
+        "in_stock": true
+    },
+    {
+        "id": 477,
+        "name": "Чехол 18",
+        "price": 40254.06,
+        "rating": 1.0,
+        "category": "Аксуссуары",
+        "in_stock": false
+    },
+    {
+        "id": 478,
+        "name": "Рюкзак 54",
+        "price": 15260.53,
+        "rating": 1.4,
+        "category": "Обувь",
+        "in_stock": true
+    },
+    {
+        "id": 479,
+        "name": "Кабель 72",
+        "price": 35233.28,
+        "rating": 3.6,
+        "category": "Электроника",
+        "in_stock": true
+    },
+    {
+        "id": 480,
+        "name": "Кофта 64",
+        "price": 30759.1,
+        "rating": 3.6,
+        "category": "Обувь",
+        "in_stock": true
+    },
+    {
+        "id": 481,
+        "name": "Кофта 15",
+        "price": 15410.51,
+        "rating": 1.3,
+        "category": "Красота",
+        "in_stock": true
+    },
+    {
+        "id": 482,
+        "name": "Велосипед 83",
+        "price": 11698.99,
+        "rating": 3.7,
+        "category": "Книги",
+        "in_stock": true
+    },
+    {
+        "id": 483,
+        "name": "Рюкзак 90",
+        "price": 14166.65,
+        "rating": 2.0,
+        "category": "Аксуссуары",
+        "in_stock": true
+    },
+    {
+        "id": 484,
+        "name": "Телефон 24",
+        "price": 7306.19,
+        "rating": 1.1,
+        "category": "Книги",
+        "in_stock": false
+    },
+    {
+        "id": 485,
+        "name": "Кофта 86",
+        "price": 569.98,
+        "rating": 3.0,
+        "category": "Красота",
+        "in_stock": true
+    },
+    {
+        "id": 486,
+        "name": "Куртка 31",
+        "price": 24343.44,
+        "rating": 3.2,
+        "category": "Одежда",
+        "in_stock": true
+    },
+    {
+        "id": 487,
+        "name": "Зарядка 97",
+        "price": 14537.56,
+        "rating": 4.3,
+        "category": "Книги",
+        "in_stock": false
+    },
+    {
+        "id": 488,
+        "name": "Сумка 69",
+        "price": 33771.4,
+        "rating": 3.4,
+        "category": "Игрушки",
+        "in_stock": false
+    },
+    {
+        "id": 489,
+        "name": "Стекло 21",
+        "price": 1281.33,
+        "rating": 1.5,
+        "category": "Книги",
+        "in_stock": false
+    },
+    {
+        "id": 490,
+        "name": "Стекло 53",
+        "price": 27942.69,
+        "rating": 3.0,
+        "category": "Электроника",
+        "in_stock": false
+    },
+    {
+        "id": 491,
+        "name": "Клавиатура 21",
+        "price": 26705.96,
+        "rating": 2.7,
+        "category": "Красота",
+        "in_stock": true
+    },
+    {
+        "id": 492,
+        "name": "Наушники 89",
+        "price": 1410.22,
+        "rating": 3.5,
+        "category": "Электроника",
+        "in_stock": false
+    },
+    {
+        "id": 493,
+        "name": "Планшет 93",
+        "price": 44381.34,
+        "rating": 3.3,
+        "category": "Спорт",
+        "in_stock": false
+    },
+    {
+        "id": 494,
+        "name": "Куртка 42",
+        "price": 25184.82,
+        "rating": 3.1,
+        "category": "Книги",
+        "in_stock": true
+    },
+    {
+        "id": 495,
+        "name": "Куртка 46",
+        "price": 147.34,
+        "rating": 4.4,
+        "category": "Электроника",
+        "in_stock": true
+    },
+    {
+        "id": 496,
+        "name": "Крем 93",
+        "price": 45330.25,
+        "rating": 4.8,
+        "category": "Аксуссуары",
+        "in_stock": false
+    },
+    {
+        "id": 497,
+        "name": "Джинсы 97",
+        "price": 41192.86,
+        "rating": 4.4,
+        "category": "Игрушки",
+        "in_stock": true
+    },
+    {
+        "id": 498,
+        "name": "Телефон 91",
+        "price": 47356.97,
+        "rating": 4.6,
+        "category": "Книги",
+        "in_stock": true
+    },
+    {
+        "id": 499,
+        "name": "Платье 30",
+        "price": 39811.73,
+        "rating": 4.5,
+        "category": "Спорт",
+        "in_stock": true
+    },
+    {
+        "id": 500,
+        "name": "Стекло 35",
+        "price": 26519.81,
+        "rating": 1.1,
+        "category": "Спорт",
+        "in_stock": true
+    },
+    {
+        "id": 501,
+        "name": "Наушники 11",
+        "price": 48856.73,
+        "rating": 3.2,
+        "category": "Красота",
+        "in_stock": true
+    },
+    {
+        "id": 502,
+        "name": "Стекло 41",
+        "price": 30052.08,
+        "rating": 1.9,
+        "category": "Спорт",
+        "in_stock": false
+    },
+    {
+        "id": 503,
+        "name": "Стекло 76",
+        "price": 45043.42,
+        "rating": 5.0,
+        "category": "Обувь",
+        "in_stock": false
+    },
+    {
+        "id": 504,
+        "name": "Ролики 93",
+        "price": 31434.99,
+        "rating": 1.9,
+        "category": "Красота",
+        "in_stock": true
+    },
+    {
+        "id": 505,
+        "name": "Конструктор 38",
+        "price": 32932.49,
+        "rating": 3.8,
+        "category": "Аксуссуары",
+        "in_stock": false
+    },
+    {
+        "id": 506,
+        "name": "Рюкзак 16",
+        "price": 30642.05,
+        "rating": 1.6,
+        "category": "Красота",
+        "in_stock": true
+    },
+    {
+        "id": 507,
+        "name": "Шампунь 87",
+        "price": 23096.33,
+        "rating": 4.3,
+        "category": "Обувь",
+        "in_stock": true
+    },
+    {
+        "id": 508,
+        "name": "Крем 20",
+        "price": 28183.44,
+        "rating": 3.0,
+        "category": "Красота",
+        "in_stock": false
+    },
+    {
+        "id": 509,
+        "name": "Куртка 27",
+        "price": 32617.51,
+        "rating": 3.5,
+        "category": "Обувь",
+        "in_stock": false
+    },
+    {
+        "id": 510,
+        "name": "Кабель 32",
+        "price": 40648.49,
+        "rating": 3.8,
+        "category": "Спорт",
+        "in_stock": false
+    },
+    {
+        "id": 511,
+        "name": "Конструктор 76",
+        "price": 5715.77,
+        "rating": 1.9,
+        "category": "Аксуссуары",
+        "in_stock": false
+    },
+    {
+        "id": 512,
+        "name": "Зарядка 43",
+        "price": 26706.68,
+        "rating": 1.0,
+        "category": "Обувь",
+        "in_stock": false
+    },
+    {
+        "id": 513,
+        "name": "Чехол 54",
+        "price": 36141.24,
+        "rating": 2.3,
+        "category": "Игрушки",
+        "in_stock": false
+    },
+    {
+        "id": 514,
+        "name": "Ролики 27",
+        "price": 11570.53,
+        "rating": 2.0,
+        "category": "Игрушки",
+        "in_stock": true
+    },
+    {
+        "id": 515,
+        "name": "Конструктор 42",
+        "price": 17146.48,
+        "rating": 4.7,
+        "category": "Электроника",
+        "in_stock": true
+    },
+    {
+        "id": 516,
+        "name": "Клавиатура 62",
+        "price": 23564.73,
+        "rating": 2.8,
+        "category": "Обувь",
+        "in_stock": false
+    },
+    {
+        "id": 517,
+        "name": "Кукла 7",
+        "price": 32417.55,
+        "rating": 1.8,
+        "category": "Аксуссуары",
+        "in_stock": true
+    },
+    {
+        "id": 518,
+        "name": "Платье 8",
+        "price": 38457.07,
+        "rating": 4.0,
+        "category": "Спорт",
+        "in_stock": true
+    },
+    {
+        "id": 519,
+        "name": "Конструктор 72",
+        "price": 27044.11,
+        "rating": 1.1,
+        "category": "Одежда",
+        "in_stock": false
+    },
+    {
+        "id": 520,
+        "name": "Мяч 59",
+        "price": 34184.81,
+        "rating": 2.6,
+        "category": "Книги",
+        "in_stock": true
+    },
+    {
+        "id": 521,
+        "name": "Шампунь 44",
+        "price": 40641.56,
+        "rating": 1.1,
+        "category": "Одежда",
+        "in_stock": false
+    },
+    {
+        "id": 522,
+        "name": "Машинка 86",
+        "price": 23945.15,
+        "rating": 3.2,
+        "category": "Электроника",
+        "in_stock": false
+    },
+    {
+        "id": 523,
+        "name": "Колонка 8",
+        "price": 10120.08,
+        "rating": 1.2,
+        "category": "Спорт",
+        "in_stock": true
+    },
+    {
+        "id": 524,
+        "name": "Мяч 45",
+        "price": 44000.7,
+        "rating": 4.8,
+        "category": "Игрушки",
+        "in_stock": false
+    },
+    {
+        "id": 525,
+        "name": "Клавиатура 70",
+        "price": 32959.92,
+        "rating": 3.3,
+        "category": "Игрушки",
+        "in_stock": false
+    },
+    {
+        "id": 526,
+        "name": "Рюкзак 91",
+        "price": 16656.0,
+        "rating": 4.7,
+        "category": "Спорт",
+        "in_stock": false
+    },
+    {
+        "id": 527,
+        "name": "Духи 55",
+        "price": 22605.71,
+        "rating": 3.7,
+        "category": "Спорт",
+        "in_stock": true
+    },
+    {
+        "id": 528,
+        "name": "Кукла 65",
+        "price": 46681.98,
+        "rating": 2.3,
+        "category": "Игрушки",
+        "in_stock": false
+    },
+    {
+        "id": 529,
+        "name": "Платье 9",
+        "price": 1270.58,
+        "rating": 2.6,
+        "category": "Аксуссуары",
+        "in_stock": false
+    },
+    {
+        "id": 530,
+        "name": "Шампунь 52",
+        "price": 5212.97,
+        "rating": 4.4,
+        "category": "Обувь",
+        "in_stock": false
+    },
+    {
+        "id": 531,
+        "name": "Чехол 79",
+        "price": 38784.67,
+        "rating": 5.0,
+        "category": "Аксуссуары",
+        "in_stock": false
+    },
+    {
+        "id": 532,
+        "name": "Телефон 20",
+        "price": 43387.7,
+        "rating": 4.7,
+        "category": "Одежда",
+        "in_stock": true
+    },
+    {
+        "id": 533,
+        "name": "Кукла 96",
+        "price": 32861.37,
+        "rating": 3.7,
+        "category": "Спорт",
+        "in_stock": false
+    },
+    {
+        "id": 534,
+        "name": "Стекло 56",
+        "price": 21004.09,
+        "rating": 4.6,
+        "category": "Аксуссуары",
+        "in_stock": true
+    },
+    {
+        "id": 535,
+        "name": "Рюкзак 48",
+        "price": 23748.54,
+        "rating": 2.3,
+        "category": "Спорт",
+        "in_stock": true
+    },
+    {
+        "id": 536,
+        "name": "Чехол 53",
+        "price": 48671.69,
+        "rating": 3.1,
+        "category": "Игрушки",
+        "in_stock": false
+    },
+    {
+        "id": 537,
+        "name": "Рюкзак 18",
+        "price": 31649.73,
+        "rating": 2.8,
+        "category": "Красота",
+        "in_stock": false
+    },
+    {
+        "id": 538,
+        "name": "Конструктор 33",
+        "price": 34859.36,
+        "rating": 1.8,
+        "category": "Обувь",
+        "in_stock": true
+    },
+    {
+        "id": 539,
+        "name": "Планшет 95",
+        "price": 48129.03,
+        "rating": 3.3,
+        "category": "Красота",
+        "in_stock": false
+    },
+    {
+        "id": 540,
+        "name": "Джинсы 92",
+        "price": 4726.68,
+        "rating": 1.3,
+        "category": "Спорт",
+        "in_stock": true
+    },
+    {
+        "id": 541,
+        "name": "Конструктор 27",
+        "price": 2503.03,
+        "rating": 4.7,
+        "category": "Игрушки",
+        "in_stock": true
+    },
+    {
+        "id": 542,
+        "name": "Кукла 22",
+        "price": 16694.49,
+        "rating": 4.1,
+        "category": "Игрушки",
+        "in_stock": true
+    },
+    {
+        "id": 543,
+        "name": "Планшет 56",
+        "price": 2752.24,
+        "rating": 3.7,
+        "category": "Одежда",
+        "in_stock": false
+    },
+    {
+        "id": 544,
+        "name": "Журнал 53",
+        "price": 36326.63,
+        "rating": 2.5,
+        "category": "Обувь",
+        "in_stock": true
+    },
+    {
+        "id": 545,
+        "name": "Шампунь 34",
+        "price": 39062.68,
+        "rating": 2.7,
+        "category": "Игрушки",
+        "in_stock": false
+    },
+    {
+        "id": 546,
+        "name": "Телефон 4",
+        "price": 37457.07,
+        "rating": 3.5,
+        "category": "Книги",
+        "in_stock": false
+    },
+    {
+        "id": 547,
+        "name": "Клавиатура 41",
+        "price": 1817.17,
+        "rating": 1.7,
+        "category": "Электроника",
+        "in_stock": false
+    },
+    {
+        "id": 548,
+        "name": "Колонка 63",
+        "price": 4727.45,
+        "rating": 1.5,
+        "category": "Книги",
+        "in_stock": true
+    },
+    {
+        "id": 549,
+        "name": "Платье 59",
+        "price": 9695.37,
+        "rating": 1.5,
+        "category": "Аксуссуары",
+        "in_stock": false
+    },
+    {
+        "id": 550,
+        "name": "Духи 14",
+        "price": 38928.05,
+        "rating": 4.0,
+        "category": "Книги",
+        "in_stock": false
+    },
+    {
+        "id": 551,
+        "name": "Мышь 1",
+        "price": 48375.9,
+        "rating": 3.2,
+        "category": "Аксуссуары",
+        "in_stock": false
+    },
+    {
+        "id": 552,
+        "name": "Кукла 88",
+        "price": 7600.45,
+        "rating": 1.3,
+        "category": "Обувь",
+        "in_stock": true
+    },
+    {
+        "id": 553,
+        "name": "Мяч 45",
+        "price": 20793.89,
+        "rating": 4.8,
+        "category": "Спорт",
+        "in_stock": true
+    },
+    {
+        "id": 554,
+        "name": "Велосипед 58",
+        "price": 33044.31,
+        "rating": 3.5,
+        "category": "Книги",
+        "in_stock": true
+    },
+    {
+        "id": 555,
+        "name": "Кабель 84",
+        "price": 28264.79,
+        "rating": 4.6,
+        "category": "Обувь",
+        "in_stock": false
+    },
+    {
+        "id": 556,
+        "name": "Платье 45",
+        "price": 27688.62,
+        "rating": 4.8,
+        "category": "Красота",
+        "in_stock": true
+    },
+    {
+        "id": 557,
+        "name": "Кофта 89",
+        "price": 1979.6,
+        "rating": 3.1,
+        "category": "Книги",
+        "in_stock": false
+    },
+    {
+        "id": 558,
+        "name": "Зарядка 67",
+        "price": 45151.92,
+        "rating": 4.0,
+        "category": "Аксуссуары",
+        "in_stock": false
+    },
+    {
+        "id": 559,
+        "name": "Телефон 12",
+        "price": 42223.97,
+        "rating": 5.0,
+        "category": "Электроника",
+        "in_stock": true
+    },
+    {
+        "id": 560,
+        "name": "Планшет 74",
+        "price": 4351.92,
+        "rating": 4.4,
+        "category": "Игрушки",
+        "in_stock": true
+    },
+    {
+        "id": 561,
+        "name": "Кукла 31",
+        "price": 39624.31,
+        "rating": 2.2,
+        "category": "Игрушки",
+        "in_stock": true
+    },
+    {
+        "id": 562,
+        "name": "Зарядка 7",
+        "price": 8724.08,
+        "rating": 3.8,
+        "category": "Спорт",
+        "in_stock": false
+    },
+    {
+        "id": 563,
+        "name": "Стекло 24",
+        "price": 9058.08,
+        "rating": 4.4,
+        "category": "Книги",
+        "in_stock": true
+    },
+    {
+        "id": 564,
+        "name": "Журнал 64",
+        "price": 1639.39,
+        "rating": 3.2,
+        "category": "Игрушки",
+        "in_stock": false
+    },
+    {
+        "id": 565,
+        "name": "Монитор 96",
+        "price": 10784.76,
+        "rating": 1.9,
+        "category": "Электроника",
+        "in_stock": false
+    },
+    {
+        "id": 566,
+        "name": "Мяч 6",
+        "price": 45894.37,
+        "rating": 1.9,
+        "category": "Обувь",
+        "in_stock": false
+    },
+    {
+        "id": 567,
+        "name": "Стекло 8",
+        "price": 27867.03,
+        "rating": 4.7,
+        "category": "Красота",
+        "in_stock": false
+    },
+    {
+        "id": 568,
+        "name": "Кофта 52",
+        "price": 17104.89,
+        "rating": 4.0,
+        "category": "Электроника",
+        "in_stock": false
+    },
+    {
+        "id": 569,
+        "name": "Машинка 18",
+        "price": 36311.15,
+        "rating": 5.0,
+        "category": "Аксуссуары",
+        "in_stock": true
+    },
+    {
+        "id": 570,
+        "name": "Платье 9",
+        "price": 3535.25,
+        "rating": 2.1,
+        "category": "Аксуссуары",
+        "in_stock": true
+    },
+    {
+        "id": 571,
+        "name": "Телефон 88",
+        "price": 44702.91,
+        "rating": 4.0,
+        "category": "Красота",
+        "in_stock": false
+    },
+    {
+        "id": 572,
+        "name": "Крем 47",
+        "price": 8041.97,
+        "rating": 2.9,
+        "category": "Одежда",
+        "in_stock": true
+    },
+    {
+        "id": 573,
+        "name": "Чехол 8",
+        "price": 26147.46,
+        "rating": 4.8,
+        "category": "Книги",
+        "in_stock": true
+    },
+    {
+        "id": 574,
+        "name": "Колонка 75",
+        "price": 46614.25,
+        "rating": 3.9,
+        "category": "Книги",
+        "in_stock": false
+    },
+    {
+        "id": 575,
+        "name": "Платье 75",
+        "price": 19308.01,
+        "rating": 3.9,
+        "category": "Спорт",
+        "in_stock": true
+    },
+    {
+        "id": 576,
+        "name": "Кукла 38",
+        "price": 32120.28,
+        "rating": 4.3,
+        "category": "Обувь",
+        "in_stock": true
+    },
+    {
+        "id": 577,
+        "name": "Кукла 98",
+        "price": 962.72,
+        "rating": 2.5,
+        "category": "Одежда",
+        "in_stock": false
+    },
+    {
+        "id": 578,
+        "name": "Платье 27",
+        "price": 9951.37,
+        "rating": 1.8,
+        "category": "Обувь",
+        "in_stock": false
+    },
+    {
+        "id": 579,
+        "name": "Стекло 97",
+        "price": 39794.92,
+        "rating": 1.7,
+        "category": "Одежда",
+        "in_stock": true
+    },
+    {
+        "id": 580,
+        "name": "Шампунь 38",
+        "price": 36370.64,
+        "rating": 3.3,
+        "category": "Спорт",
+        "in_stock": true
+    },
+    {
+        "id": 581,
+        "name": "Рюкзак 55",
+        "price": 35652.77,
+        "rating": 4.4,
+        "category": "Игрушки",
+        "in_stock": true
+    },
+    {
+        "id": 582,
+        "name": "Куртка 52",
+        "price": 20027.52,
+        "rating": 4.3,
+        "category": "Игрушки",
+        "in_stock": true
+    },
+    {
+        "id": 583,
+        "name": "Монитор 32",
+        "price": 46299.51,
+        "rating": 1.9,
+        "category": "Красота",
+        "in_stock": false
+    },
+    {
+        "id": 584,
+        "name": "Мышь 68",
+        "price": 33849.14,
+        "rating": 2.0,
+        "category": "Аксуссуары",
+        "in_stock": false
+    },
+    {
+        "id": 585,
+        "name": "Монитор 6",
+        "price": 16308.89,
+        "rating": 1.2,
+        "category": "Обувь",
+        "in_stock": false
+    },
+    {
+        "id": 586,
+        "name": "Клавиатура 84",
+        "price": 40403.83,
+        "rating": 4.7,
+        "category": "Красота",
+        "in_stock": true
+    },
+    {
+        "id": 587,
+        "name": "Мяч 84",
+        "price": 24040.63,
+        "rating": 1.6,
+        "category": "Одежда",
+        "in_stock": false
+    },
+    {
+        "id": 588,
+        "name": "Платье 52",
+        "price": 24895.44,
+        "rating": 3.2,
+        "category": "Спорт",
+        "in_stock": true
+    },
+    {
+        "id": 589,
+        "name": "Клавиатура 88",
+        "price": 15689.07,
+        "rating": 4.7,
+        "category": "Красота",
+        "in_stock": true
+    },
+    {
+        "id": 590,
+        "name": "Монитор 15",
+        "price": 15414.57,
+        "rating": 2.2,
+        "category": "Игрушки",
+        "in_stock": true
+    },
+    {
+        "id": 591,
+        "name": "Зарядка 35",
+        "price": 2690.89,
+        "rating": 1.6,
+        "category": "Красота",
+        "in_stock": false
+    },
+    {
+        "id": 592,
+        "name": "Футболка 17",
+        "price": 22522.98,
+        "rating": 3.3,
+        "category": "Аксуссуары",
+        "in_stock": true
+    },
+    {
+        "id": 593,
+        "name": "Велосипед 82",
+        "price": 39051.07,
+        "rating": 2.6,
+        "category": "Аксуссуары",
+        "in_stock": true
+    },
+    {
+        "id": 594,
+        "name": "Монитор 50",
+        "price": 48226.07,
+        "rating": 2.1,
+        "category": "Игрушки",
+        "in_stock": false
+    },
+    {
+        "id": 595,
+        "name": "Конструктор 7",
+        "price": 39069.33,
+        "rating": 2.9,
+        "category": "Электроника",
+        "in_stock": false
+    },
+    {
+        "id": 596,
+        "name": "Чехол 59",
+        "price": 6885.95,
+        "rating": 3.6,
+        "category": "Электроника",
+        "in_stock": false
+    },
+    {
+        "id": 597,
+        "name": "Футболка 54",
+        "price": 48644.7,
+        "rating": 1.3,
+        "category": "Одежда",
+        "in_stock": true
+    },
+    {
+        "id": 598,
+        "name": "Джинсы 99",
+        "price": 1131.08,
+        "rating": 2.2,
+        "category": "Красота",
+        "in_stock": false
+    },
+    {
+        "id": 599,
+        "name": "Сумка 34",
+        "price": 31418.86,
+        "rating": 3.0,
+        "category": "Спорт",
+        "in_stock": false
+    },
+    {
+        "id": 600,
+        "name": "Куртка 19",
+        "price": 28962.95,
+        "rating": 1.6,
+        "category": "Аксуссуары",
+        "in_stock": true
+    },
+    {
+        "id": 601,
+        "name": "Сумка 32",
+        "price": 16258.55,
+        "rating": 3.8,
+        "category": "Аксуссуары",
+        "in_stock": true
+    },
+    {
+        "id": 602,
+        "name": "Футболка 20",
+        "price": 11234.6,
+        "rating": 4.0,
+        "category": "Одежда",
+        "in_stock": true
+    },
+    {
+        "id": 603,
+        "name": "Чехол 84",
+        "price": 3381.77,
+        "rating": 2.5,
+        "category": "Спорт",
+        "in_stock": true
+    },
+    {
+        "id": 604,
+        "name": "Мяч 76",
+        "price": 32039.14,
+        "rating": 4.4,
+        "category": "Одежда",
+        "in_stock": true
+    },
+    {
+        "id": 605,
+        "name": "Зарядка 9",
+        "price": 20871.19,
+        "rating": 2.6,
+        "category": "Красота",
+        "in_stock": false
+    },
+    {
+        "id": 606,
+        "name": "Мяч 77",
+        "price": 6419.66,
+        "rating": 2.5,
+        "category": "Одежда",
+        "in_stock": false
+    },
+    {
+        "id": 607,
+        "name": "Платье 48",
+        "price": 20197.09,
+        "rating": 2.9,
+        "category": "Книги",
+        "in_stock": true
+    },
+    {
+        "id": 608,
+        "name": "Сумка 100",
+        "price": 5592.28,
+        "rating": 3.4,
+        "category": "Обувь",
+        "in_stock": true
+    },
+    {
+        "id": 609,
+        "name": "Мяч 87",
+        "price": 7986.55,
+        "rating": 3.1,
+        "category": "Игрушки",
+        "in_stock": true
+    },
+    {
+        "id": 610,
+        "name": "Мышь 12",
+        "price": 2694.22,
+        "rating": 5.0,
+        "category": "Обувь",
+        "in_stock": true
+    },
+    {
+        "id": 611,
+        "name": "Кабель 73",
+        "price": 43327.01,
+        "rating": 1.1,
+        "category": "Одежда",
+        "in_stock": true
+    },
+    {
+        "id": 612,
+        "name": "Духи 96",
+        "price": 9518.28,
+        "rating": 3.7,
+        "category": "Электроника",
+        "in_stock": true
+    },
+    {
+        "id": 613,
+        "name": "Духи 67",
+        "price": 46237.58,
+        "rating": 2.8,
+        "category": "Книги",
+        "in_stock": false
+    },
+    {
+        "id": 614,
+        "name": "Чехол 35",
+        "price": 5427.76,
+        "rating": 4.7,
+        "category": "Электроника",
+        "in_stock": false
+    },
+    {
+        "id": 615,
+        "name": "Кофта 90",
+        "price": 9083.22,
+        "rating": 4.6,
+        "category": "Спорт",
+        "in_stock": false
+    },
+    {
+        "id": 616,
+        "name": "Сумка 18",
+        "price": 11321.4,
+        "rating": 3.6,
+        "category": "Книги",
+        "in_stock": false
+    },
+    {
+        "id": 617,
+        "name": "Джинсы 20",
+        "price": 1019.28,
+        "rating": 3.1,
+        "category": "Одежда",
+        "in_stock": false
+    },
+    {
+        "id": 618,
+        "name": "Джинсы 91",
+        "price": 37486.64,
+        "rating": 3.3,
+        "category": "Игрушки",
+        "in_stock": false
+    },
+    {
+        "id": 619,
+        "name": "Зарядка 42",
+        "price": 2147.06,
+        "rating": 3.0,
+        "category": "Обувь",
+        "in_stock": false
+    },
+    {
+        "id": 620,
+        "name": "Сумка 42",
+        "price": 13617.17,
+        "rating": 1.0,
+        "category": "Спорт",
+        "in_stock": false
+    },
+    {
+        "id": 621,
+        "name": "Куртка 81",
+        "price": 33664.15,
+        "rating": 2.3,
+        "category": "Одежда",
+        "in_stock": true
+    },
+    {
+        "id": 622,
+        "name": "Шампунь 88",
+        "price": 15241.43,
+        "rating": 2.9,
+        "category": "Красота",
+        "in_stock": true
+    },
+    {
+        "id": 623,
+        "name": "Журнал 80",
+        "price": 42241.56,
+        "rating": 3.6,
+        "category": "Электроника",
+        "in_stock": false
+    },
+    {
+        "id": 624,
+        "name": "Монитор 97",
+        "price": 3302.16,
+        "rating": 4.1,
+        "category": "Спорт",
+        "in_stock": false
+    },
+    {
+        "id": 625,
+        "name": "Колонка 77",
+        "price": 26339.83,
+        "rating": 3.6,
+        "category": "Электроника",
+        "in_stock": false
+    },
+    {
+        "id": 626,
+        "name": "Планшет 48",
+        "price": 13208.62,
+        "rating": 3.7,
+        "category": "Книги",
+        "in_stock": false
+    },
+    {
+        "id": 627,
+        "name": "Джинсы 89",
+        "price": 11404.02,
+        "rating": 4.7,
+        "category": "Книги",
+        "in_stock": true
+    },
+    {
+        "id": 628,
+        "name": "Кофта 75",
+        "price": 42893.28,
+        "rating": 1.1,
+        "category": "Обувь",
+        "in_stock": true
+    },
+    {
+        "id": 629,
+        "name": "Рюкзак 30",
+        "price": 30791.92,
+        "rating": 1.1,
+        "category": "Спорт",
+        "in_stock": true
+    },
+    {
+        "id": 630,
+        "name": "Конструктор 41",
+        "price": 45508.06,
+        "rating": 4.9,
+        "category": "Красота",
+        "in_stock": true
+    },
+    {
+        "id": 631,
+        "name": "Телефон 89",
+        "price": 16889.78,
+        "rating": 1.4,
+        "category": "Аксуссуары",
+        "in_stock": false
+    },
+    {
+        "id": 632,
+        "name": "Джинсы 36",
+        "price": 23301.57,
+        "rating": 3.5,
+        "category": "Книги",
+        "in_stock": true
+    },
+    {
+        "id": 633,
+        "name": "Футболка 84",
+        "price": 15673.03,
+        "rating": 2.6,
+        "category": "Игрушки",
+        "in_stock": true
+    },
+    {
+        "id": 634,
+        "name": "Планшет 20",
+        "price": 1350.83,
+        "rating": 1.6,
+        "category": "Одежда",
+        "in_stock": false
+    },
+    {
+        "id": 635,
+        "name": "Футболка 27",
+        "price": 39181.22,
+        "rating": 2.3,
+        "category": "Игрушки",
+        "in_stock": true
+    },
+    {
+        "id": 636,
+        "name": "Футболка 69",
+        "price": 25162.19,
+        "rating": 4.7,
+        "category": "Красота",
+        "in_stock": true
+    },
+    {
+        "id": 637,
+        "name": "Кабель 76",
+        "price": 12469.15,
+        "rating": 3.4,
+        "category": "Обувь",
+        "in_stock": false
+    },
+    {
+        "id": 638,
+        "name": "Футболка 52",
+        "price": 48371.55,
+        "rating": 2.1,
+        "category": "Книги",
+        "in_stock": true
+    },
+    {
+        "id": 639,
+        "name": "Колонка 70",
+        "price": 27911.93,
+        "rating": 4.9,
+        "category": "Одежда",
+        "in_stock": true
+    },
+    {
+        "id": 640,
+        "name": "Клавиатура 43",
+        "price": 7456.57,
+        "rating": 1.9,
+        "category": "Электроника",
+        "in_stock": true
+    },
+    {
+        "id": 641,
+        "name": "Планшет 9",
+        "price": 39701.59,
+        "rating": 3.7,
+        "category": "Игрушки",
+        "in_stock": false
+    },
+    {
+        "id": 642,
+        "name": "Кабель 99",
+        "price": 34644.81,
+        "rating": 3.9,
+        "category": "Электроника",
+        "in_stock": true
+    },
+    {
+        "id": 643,
+        "name": "Зарядка 40",
+        "price": 1506.53,
+        "rating": 4.5,
+        "category": "Игрушки",
+        "in_stock": true
+    },
+    {
+        "id": 644,
+        "name": "Наушники 1",
+        "price": 34993.29,
+        "rating": 1.4,
+        "category": "Обувь",
+        "in_stock": false
+    },
+    {
+        "id": 645,
+        "name": "Монитор 95",
+        "price": 29899.51,
+        "rating": 4.6,
+        "category": "Игрушки",
+        "in_stock": true
+    },
+    {
+        "id": 646,
+        "name": "Рюкзак 17",
+        "price": 10194.31,
+        "rating": 1.0,
+        "category": "Спорт",
+        "in_stock": false
+    },
+    {
+        "id": 647,
+        "name": "Планшет 10",
+        "price": 4611.01,
+        "rating": 1.4,
+        "category": "Одежда",
+        "in_stock": true
+    },
+    {
+        "id": 648,
+        "name": "Ролики 40",
+        "price": 15480.81,
+        "rating": 2.0,
+        "category": "Игрушки",
+        "in_stock": false
+    },
+    {
+        "id": 649,
+        "name": "Телефон 11",
+        "price": 3197.91,
+        "rating": 3.2,
+        "category": "Книги",
+        "in_stock": true
+    },
+    {
+        "id": 650,
+        "name": "Журнал 28",
+        "price": 6375.72,
+        "rating": 4.9,
+        "category": "Аксуссуары",
+        "in_stock": false
+    },
+    {
+        "id": 651,
+        "name": "Телефон 65",
+        "price": 9308.19,
+        "rating": 2.5,
+        "category": "Спорт",
+        "in_stock": false
+    },
+    {
+        "id": 652,
+        "name": "Джинсы 5",
+        "price": 11721.28,
+        "rating": 2.4,
+        "category": "Электроника",
+        "in_stock": true
+    },
+    {
+        "id": 653,
+        "name": "Шампунь 28",
+        "price": 13597.06,
+        "rating": 3.4,
+        "category": "Аксуссуары",
+        "in_stock": false
+    },
+    {
+        "id": 654,
+        "name": "Телефон 69",
+        "price": 26019.76,
+        "rating": 2.1,
+        "category": "Аксуссуары",
+        "in_stock": false
+    },
+    {
+        "id": 655,
+        "name": "Мышь 59",
+        "price": 7727.95,
+        "rating": 4.2,
+        "category": "Аксуссуары",
+        "in_stock": false
+    },
+    {
+        "id": 656,
+        "name": "Планшет 11",
+        "price": 5497.59,
+        "rating": 4.4,
+        "category": "Спорт",
+        "in_stock": true
+    },
+    {
+        "id": 657,
+        "name": "Журнал 33",
+        "price": 45605.75,
+        "rating": 4.5,
+        "category": "Одежда",
+        "in_stock": true
+    },
+    {
+        "id": 658,
+        "name": "Колонка 34",
+        "price": 28328.98,
+        "rating": 4.1,
+        "category": "Электроника",
+        "in_stock": false
+    },
+    {
+        "id": 659,
+        "name": "Платье 43",
+        "price": 49896.67,
+        "rating": 3.1,
+        "category": "Обувь",
+        "in_stock": false
+    },
+    {
+        "id": 660,
+        "name": "Машинка 79",
+        "price": 5223.85,
+        "rating": 2.1,
+        "category": "Красота",
+        "in_stock": true
+    },
+    {
+        "id": 661,
+        "name": "Мышь 12",
+        "price": 40372.6,
+        "rating": 3.1,
+        "category": "Книги",
+        "in_stock": true
+    },
+    {
+        "id": 662,
+        "name": "Куртка 66",
+        "price": 22843.25,
+        "rating": 4.1,
+        "category": "Спорт",
+        "in_stock": false
+    },
+    {
+        "id": 663,
+        "name": "Конструктор 55",
+        "price": 13348.32,
+        "rating": 1.2,
+        "category": "Игрушки",
+        "in_stock": false
+    },
+    {
+        "id": 664,
+        "name": "Кукла 11",
+        "price": 1808.58,
+        "rating": 3.4,
+        "category": "Аксуссуары",
+        "in_stock": true
+    },
+    {
+        "id": 665,
+        "name": "Зарядка 4",
+        "price": 39580.25,
+        "rating": 1.3,
+        "category": "Спорт",
+        "in_stock": false
+    },
+    {
+        "id": 666,
+        "name": "Наушники 65",
+        "price": 21255.3,
+        "rating": 4.5,
+        "category": "Обувь",
+        "in_stock": true
+    },
+    {
+        "id": 667,
+        "name": "Наушники 34",
+        "price": 11631.24,
+        "rating": 1.8,
+        "category": "Красота",
+        "in_stock": false
+    },
+    {
+        "id": 668,
+        "name": "Колонка 51",
+        "price": 16353.07,
+        "rating": 4.2,
+        "category": "Одежда",
+        "in_stock": false
+    },
+    {
+        "id": 669,
+        "name": "Планшет 95",
+        "price": 47815.09,
+        "rating": 1.7,
+        "category": "Игрушки",
+        "in_stock": false
+    },
+    {
+        "id": 670,
+        "name": "Мяч 74",
+        "price": 28035.52,
+        "rating": 1.7,
+        "category": "Спорт",
+        "in_stock": true
+    },
+    {
+        "id": 671,
+        "name": "Футболка 79",
+        "price": 19806.79,
+        "rating": 1.7,
+        "category": "Электроника",
+        "in_stock": true
+    },
+    {
+        "id": 672,
+        "name": "Кукла 76",
+        "price": 16471.83,
+        "rating": 4.9,
+        "category": "Электроника",
+        "in_stock": true
+    },
+    {
+        "id": 673,
+        "name": "Планшет 87",
+        "price": 12122.8,
+        "rating": 1.7,
+        "category": "Игрушки",
+        "in_stock": false
+    },
+    {
+        "id": 674,
+        "name": "Футболка 50",
+        "price": 41352.86,
+        "rating": 4.5,
+        "category": "Красота",
+        "in_stock": true
+    },
+    {
+        "id": 675,
+        "name": "Куртка 32",
+        "price": 13494.38,
+        "rating": 3.8,
+        "category": "Красота",
+        "in_stock": false
+    },
+    {
+        "id": 676,
+        "name": "Джинсы 82",
+        "price": 28120.82,
+        "rating": 3.9,
+        "category": "Электроника",
+        "in_stock": false
+    },
+    {
+        "id": 677,
+        "name": "Велосипед 70",
+        "price": 749.98,
+        "rating": 2.8,
+        "category": "Спорт",
+        "in_stock": false
+    },
+    {
+        "id": 678,
+        "name": "Мышь 33",
+        "price": 44953.82,
+        "rating": 1.2,
+        "category": "Электроника",
+        "in_stock": false
+    },
+    {
+        "id": 679,
+        "name": "Конструктор 62",
+        "price": 5968.45,
+        "rating": 1.8,
+        "category": "Аксуссуары",
+        "in_stock": false
+    },
+    {
+        "id": 680,
+        "name": "Сумка 16",
+        "price": 14937.47,
+        "rating": 3.2,
+        "category": "Красота",
+        "in_stock": true
+    },
+    {
+        "id": 681,
+        "name": "Мяч 19",
+        "price": 12338.37,
+        "rating": 4.1,
+        "category": "Аксуссуары",
+        "in_stock": false
+    },
+    {
+        "id": 682,
+        "name": "Журнал 36",
+        "price": 46538.38,
+        "rating": 3.9,
+        "category": "Книги",
+        "in_stock": false
+    },
+    {
+        "id": 683,
+        "name": "Мышь 40",
+        "price": 11050.91,
+        "rating": 5.0,
+        "category": "Аксуссуары",
+        "in_stock": true
+    },
+    {
+        "id": 684,
+        "name": "Духи 11",
+        "price": 9571.81,
+        "rating": 2.7,
+        "category": "Книги",
+        "in_stock": true
+    },
+    {
+        "id": 685,
+        "name": "Наушники 90",
+        "price": 13166.44,
+        "rating": 2.7,
+        "category": "Книги",
+        "in_stock": false
+    },
+    {
+        "id": 686,
+        "name": "Машинка 30",
+        "price": 37000.97,
+        "rating": 1.2,
+        "category": "Аксуссуары",
+        "in_stock": true
+    },
+    {
+        "id": 687,
+        "name": "Машинка 71",
+        "price": 46154.11,
+        "rating": 3.8,
+        "category": "Одежда",
+        "in_stock": true
+    },
+    {
+        "id": 688,
+        "name": "Колонка 41",
+        "price": 16059.4,
+        "rating": 1.9,
+        "category": "Игрушки",
+        "in_stock": false
+    },
+    {
+        "id": 689,
+        "name": "Кукла 73",
+        "price": 11931.38,
+        "rating": 2.4,
+        "category": "Спорт",
+        "in_stock": false
+    },
+    {
+        "id": 690,
+        "name": "Стекло 27",
+        "price": 11296.06,
+        "rating": 1.5,
+        "category": "Одежда",
+        "in_stock": false
+    },
+    {
+        "id": 691,
+        "name": "Наушники 41",
+        "price": 4747.65,
+        "rating": 1.5,
+        "category": "Обувь",
+        "in_stock": true
+    },
+    {
+        "id": 692,
+        "name": "Клавиатура 58",
+        "price": 45287.75,
+        "rating": 1.0,
+        "category": "Одежда",
+        "in_stock": true
+    },
+    {
+        "id": 693,
+        "name": "Клавиатура 77",
+        "price": 2975.0,
+        "rating": 3.4,
+        "category": "Спорт",
+        "in_stock": true
+    },
+    {
+        "id": 694,
+        "name": "Сумка 51",
+        "price": 43292.6,
+        "rating": 1.4,
+        "category": "Одежда",
+        "in_stock": false
+    },
+    {
+        "id": 695,
+        "name": "Кабель 92",
+        "price": 39533.2,
+        "rating": 3.8,
+        "category": "Красота",
+        "in_stock": false
+    },
+    {
+        "id": 696,
+        "name": "Монитор 95",
+        "price": 21307.59,
+        "rating": 3.9,
+        "category": "Спорт",
+        "in_stock": false
+    },
+    {
+        "id": 697,
+        "name": "Сумка 6",
+        "price": 3555.61,
+        "rating": 1.1,
+        "category": "Книги",
+        "in_stock": false
+    },
+    {
+        "id": 698,
+        "name": "Крем 93",
+        "price": 39547.3,
+        "rating": 4.5,
+        "category": "Электроника",
+        "in_stock": false
+    },
+    {
+        "id": 699,
+        "name": "Мяч 32",
+        "price": 3922.54,
+        "rating": 2.1,
+        "category": "Книги",
+        "in_stock": true
+    },
+    {
+        "id": 700,
+        "name": "Платье 32",
+        "price": 48770.54,
+        "rating": 3.4,
+        "category": "Книги",
+        "in_stock": false
+    },
+    {
+        "id": 701,
+        "name": "Кабель 2",
+        "price": 46342.98,
+        "rating": 2.2,
+        "category": "Книги",
+        "in_stock": false
+    },
+    {
+        "id": 702,
+        "name": "Планшет 48",
+        "price": 22070.63,
+        "rating": 4.9,
+        "category": "Обувь",
+        "in_stock": true
+    },
+    {
+        "id": 703,
+        "name": "Стекло 21",
+        "price": 48450.89,
+        "rating": 2.8,
+        "category": "Электроника",
+        "in_stock": true
+    },
+    {
+        "id": 704,
+        "name": "Мяч 78",
+        "price": 25250.13,
+        "rating": 3.2,
+        "category": "Игрушки",
+        "in_stock": true
+    },
+    {
+        "id": 705,
+        "name": "Куртка 48",
+        "price": 7004.04,
+        "rating": 1.3,
+        "category": "Обувь",
+        "in_stock": true
+    },
+    {
+        "id": 706,
+        "name": "Сумка 97",
+        "price": 2354.35,
+        "rating": 3.2,
+        "category": "Аксуссуары",
+        "in_stock": false
+    },
+    {
+        "id": 707,
+        "name": "Кофта 43",
+        "price": 36104.52,
+        "rating": 2.9,
+        "category": "Обувь",
+        "in_stock": true
+    },
+    {
+        "id": 708,
+        "name": "Кофта 80",
+        "price": 24328.12,
+        "rating": 3.3,
+        "category": "Одежда",
+        "in_stock": false
+    },
+    {
+        "id": 709,
+        "name": "Велосипед 58",
+        "price": 25686.41,
+        "rating": 3.6,
+        "category": "Обувь",
+        "in_stock": true
+    },
+    {
+        "id": 710,
+        "name": "Монитор 63",
+        "price": 29398.43,
+        "rating": 1.7,
+        "category": "Одежда",
+        "in_stock": true
+    },
+    {
+        "id": 711,
+        "name": "Крем 86",
+        "price": 2417.97,
+        "rating": 2.2,
+        "category": "Игрушки",
+        "in_stock": true
+    },
+    {
+        "id": 712,
+        "name": "Монитор 94",
+        "price": 42079.95,
+        "rating": 2.7,
+        "category": "Книги",
+        "in_stock": false
+    },
+    {
+        "id": 713,
+        "name": "Платье 64",
+        "price": 41107.34,
+        "rating": 4.1,
+        "category": "Игрушки",
+        "in_stock": true
+    },
+    {
+        "id": 714,
+        "name": "Платье 11",
+        "price": 38938.91,
+        "rating": 4.0,
+        "category": "Электроника",
+        "in_stock": false
+    },
+    {
+        "id": 715,
+        "name": "Монитор 68",
+        "price": 30472.01,
+        "rating": 4.4,
+        "category": "Электроника",
+        "in_stock": false
+    },
+    {
+        "id": 716,
+        "name": "Телефон 91",
+        "price": 46361.01,
+        "rating": 1.8,
+        "category": "Обувь",
+        "in_stock": true
+    },
+    {
+        "id": 717,
+        "name": "Чехол 7",
+        "price": 40624.22,
+        "rating": 1.1,
+        "category": "Игрушки",
+        "in_stock": true
+    },
+    {
+        "id": 718,
+        "name": "Машинка 30",
+        "price": 6616.16,
+        "rating": 2.9,
+        "category": "Игрушки",
+        "in_stock": false
+    },
+    {
+        "id": 719,
+        "name": "Духи 5",
+        "price": 28245.79,
+        "rating": 1.7,
+        "category": "Обувь",
+        "in_stock": true
+    },
+    {
+        "id": 720,
+        "name": "Мяч 56",
+        "price": 18893.13,
+        "rating": 1.5,
+        "category": "Одежда",
+        "in_stock": false
+    },
+    {
+        "id": 721,
+        "name": "Кабель 41",
+        "price": 46362.55,
+        "rating": 2.1,
+        "category": "Спорт",
+        "in_stock": true
+    },
+    {
+        "id": 722,
+        "name": "Кукла 94",
+        "price": 31881.18,
+        "rating": 3.0,
+        "category": "Одежда",
+        "in_stock": true
+    },
+    {
+        "id": 723,
+        "name": "Шампунь 75",
+        "price": 19371.71,
+        "rating": 4.7,
+        "category": "Спорт",
+        "in_stock": true
+    },
+    {
+        "id": 724,
+        "name": "Клавиатура 76",
+        "price": 24870.41,
+        "rating": 4.1,
+        "category": "Книги",
+        "in_stock": false
+    },
+    {
+        "id": 725,
+        "name": "Мышь 90",
+        "price": 13148.51,
+        "rating": 1.5,
+        "category": "Красота",
+        "in_stock": true
+    },
+    {
+        "id": 726,
+        "name": "Кабель 24",
+        "price": 33782.38,
+        "rating": 4.6,
+        "category": "Книги",
+        "in_stock": true
+    },
+    {
+        "id": 727,
+        "name": "Джинсы 24",
+        "price": 24220.55,
+        "rating": 2.4,
+        "category": "Красота",
+        "in_stock": true
+    },
+    {
+        "id": 728,
+        "name": "Мяч 4",
+        "price": 6722.48,
+        "rating": 3.5,
+        "category": "Спорт",
+        "in_stock": false
+    },
+    {
+        "id": 729,
+        "name": "Стекло 5",
+        "price": 42371.43,
+        "rating": 2.9,
+        "category": "Спорт",
+        "in_stock": false
+    },
+    {
+        "id": 730,
+        "name": "Наушники 73",
+        "price": 31044.79,
+        "rating": 4.5,
+        "category": "Спорт",
+        "in_stock": false
+    },
+    {
+        "id": 731,
+        "name": "Шампунь 63",
+        "price": 24170.99,
+        "rating": 1.3,
+        "category": "Игрушки",
+        "in_stock": true
+    },
+    {
+        "id": 732,
+        "name": "Клавиатура 57",
+        "price": 7462.29,
+        "rating": 3.2,
+        "category": "Обувь",
+        "in_stock": true
+    },
+    {
+        "id": 733,
+        "name": "Мяч 65",
+        "price": 2377.8,
+        "rating": 1.1,
+        "category": "Электроника",
+        "in_stock": false
+    },
+    {
+        "id": 734,
+        "name": "Журнал 51",
+        "price": 20370.66,
+        "rating": 3.6,
+        "category": "Книги",
+        "in_stock": true
+    },
+    {
+        "id": 735,
+        "name": "Кукла 74",
+        "price": 48225.62,
+        "rating": 1.3,
+        "category": "Аксуссуары",
+        "in_stock": true
+    },
+    {
+        "id": 736,
+        "name": "Велосипед 32",
+        "price": 25378.75,
+        "rating": 3.8,
+        "category": "Электроника",
+        "in_stock": false
+    },
+    {
+        "id": 737,
+        "name": "Колонка 31",
+        "price": 20455.33,
+        "rating": 1.7,
+        "category": "Книги",
+        "in_stock": true
+    },
+    {
+        "id": 738,
+        "name": "Конструктор 63",
+        "price": 46422.56,
+        "rating": 2.8,
+        "category": "Книги",
+        "in_stock": true
+    },
+    {
+        "id": 739,
+        "name": "Зарядка 21",
+        "price": 6982.52,
+        "rating": 1.3,
+        "category": "Аксуссуары",
+        "in_stock": false
+    },
+    {
+        "id": 740,
+        "name": "Платье 48",
+        "price": 41085.39,
+        "rating": 1.6,
+        "category": "Игрушки",
+        "in_stock": true
+    },
+    {
+        "id": 741,
+        "name": "Зарядка 45",
+        "price": 42927.45,
+        "rating": 3.2,
+        "category": "Аксуссуары",
+        "in_stock": true
+    },
+    {
+        "id": 742,
+        "name": "Платье 10",
+        "price": 36625.64,
+        "rating": 2.3,
+        "category": "Красота",
+        "in_stock": true
+    },
+    {
+        "id": 743,
+        "name": "Конструктор 41",
+        "price": 48291.19,
+        "rating": 1.9,
+        "category": "Спорт",
+        "in_stock": true
+    },
+    {
+        "id": 744,
+        "name": "Кабель 82",
+        "price": 2681.68,
+        "rating": 1.6,
+        "category": "Аксуссуары",
+        "in_stock": false
+    },
+    {
+        "id": 745,
+        "name": "Духи 47",
+        "price": 34448.24,
+        "rating": 3.8,
+        "category": "Игрушки",
+        "in_stock": false
+    },
+    {
+        "id": 746,
+        "name": "Клавиатура 9",
+        "price": 29033.57,
+        "rating": 3.0,
+        "category": "Книги",
+        "in_stock": false
+    },
+    {
+        "id": 747,
+        "name": "Зарядка 62",
+        "price": 16116.8,
+        "rating": 3.1,
+        "category": "Спорт",
+        "in_stock": true
+    },
+    {
+        "id": 748,
+        "name": "Стекло 95",
+        "price": 41963.98,
+        "rating": 4.0,
+        "category": "Красота",
+        "in_stock": false
+    },
+    {
+        "id": 749,
+        "name": "Мяч 43",
+        "price": 33832.03,
+        "rating": 4.8,
+        "category": "Обувь",
+        "in_stock": false
+    },
+    {
+        "id": 750,
+        "name": "Конструктор 47",
+        "price": 10390.86,
+        "rating": 3.7,
+        "category": "Обувь",
+        "in_stock": true
+    },
+    {
+        "id": 751,
+        "name": "Мышь 61",
+        "price": 15081.23,
+        "rating": 3.3,
+        "category": "Одежда",
+        "in_stock": false
+    },
+    {
+        "id": 752,
+        "name": "Ролики 68",
+        "price": 32679.5,
+        "rating": 4.3,
+        "category": "Спорт",
+        "in_stock": true
+    },
+    {
+        "id": 753,
+        "name": "Платье 57",
+        "price": 36638.18,
+        "rating": 3.0,
+        "category": "Спорт",
+        "in_stock": false
+    },
+    {
+        "id": 754,
+        "name": "Колонка 52",
+        "price": 8319.58,
+        "rating": 1.4,
+        "category": "Одежда",
+        "in_stock": false
+    },
+    {
+        "id": 755,
+        "name": "Духи 5",
+        "price": 39201.94,
+        "rating": 4.7,
+        "category": "Игрушки",
+        "in_stock": true
+    },
+    {
+        "id": 756,
+        "name": "Колонка 10",
+        "price": 31489.1,
+        "rating": 2.1,
+        "category": "Электроника",
+        "in_stock": false
+    },
+    {
+        "id": 757,
+        "name": "Кофта 70",
+        "price": 22732.41,
+        "rating": 3.0,
+        "category": "Спорт",
+        "in_stock": false
+    },
+    {
+        "id": 758,
+        "name": "Наушники 38",
+        "price": 17250.13,
+        "rating": 3.8,
+        "category": "Обувь",
+        "in_stock": false
+    },
+    {
+        "id": 759,
+        "name": "Журнал 73",
+        "price": 8810.51,
+        "rating": 3.9,
+        "category": "Аксуссуары",
+        "in_stock": true
+    },
+    {
+        "id": 760,
+        "name": "Телефон 32",
+        "price": 6210.47,
+        "rating": 2.3,
+        "category": "Электроника",
+        "in_stock": false
+    },
+    {
+        "id": 761,
+        "name": "Планшет 69",
+        "price": 3359.31,
+        "rating": 5.0,
+        "category": "Обувь",
+        "in_stock": true
+    },
+    {
+        "id": 762,
+        "name": "Ролики 80",
+        "price": 29248.45,
+        "rating": 3.5,
+        "category": "Красота",
+        "in_stock": true
+    },
+    {
+        "id": 763,
+        "name": "Шампунь 68",
+        "price": 10708.26,
+        "rating": 3.1,
+        "category": "Книги",
+        "in_stock": false
+    },
+    {
+        "id": 764,
+        "name": "Джинсы 31",
+        "price": 15261.65,
+        "rating": 2.1,
+        "category": "Электроника",
+        "in_stock": true
+    },
+    {
+        "id": 765,
+        "name": "Футболка 34",
+        "price": 6020.66,
+        "rating": 4.6,
+        "category": "Красота",
+        "in_stock": true
+    },
+    {
+        "id": 766,
+        "name": "Телефон 4",
+        "price": 24092.68,
+        "rating": 3.2,
+        "category": "Красота",
+        "in_stock": false
+    },
+    {
+        "id": 767,
+        "name": "Наушники 32",
+        "price": 30667.72,
+        "rating": 1.2,
+        "category": "Красота",
+        "in_stock": true
+    },
+    {
+        "id": 768,
+        "name": "Крем 78",
+        "price": 5166.22,
+        "rating": 4.6,
+        "category": "Красота",
+        "in_stock": false
+    },
+    {
+        "id": 769,
+        "name": "Кукла 82",
+        "price": 19615.76,
+        "rating": 4.4,
+        "category": "Одежда",
+        "in_stock": true
+    },
+    {
+        "id": 770,
+        "name": "Шампунь 44",
+        "price": 27304.36,
+        "rating": 2.4,
+        "category": "Электроника",
+        "in_stock": false
+    },
+    {
+        "id": 771,
+        "name": "Кабель 93",
+        "price": 35464.94,
+        "rating": 2.7,
+        "category": "Игрушки",
+        "in_stock": true
+    },
+    {
+        "id": 772,
+        "name": "Духи 68",
+        "price": 47985.33,
+        "rating": 4.6,
+        "category": "Красота",
+        "in_stock": false
+    },
+    {
+        "id": 773,
+        "name": "Телефон 52",
+        "price": 12574.89,
+        "rating": 4.4,
+        "category": "Спорт",
+        "in_stock": true
+    },
+    {
+        "id": 774,
+        "name": "Планшет 11",
+        "price": 9131.67,
+        "rating": 1.5,
+        "category": "Электроника",
+        "in_stock": false
+    },
+    {
+        "id": 775,
+        "name": "Сумка 51",
+        "price": 19231.61,
+        "rating": 3.1,
+        "category": "Спорт",
+        "in_stock": false
+    },
+    {
+        "id": 776,
+        "name": "Машинка 66",
+        "price": 13483.69,
+        "rating": 3.9,
+        "category": "Одежда",
+        "in_stock": false
+    },
+    {
+        "id": 777,
+        "name": "Крем 43",
+        "price": 5674.74,
+        "rating": 4.8,
+        "category": "Игрушки",
+        "in_stock": true
+    },
+    {
+        "id": 778,
+        "name": "Платье 40",
+        "price": 26625.86,
+        "rating": 2.4,
+        "category": "Спорт",
+        "in_stock": true
+    },
+    {
+        "id": 779,
+        "name": "Шампунь 26",
+        "price": 43197.68,
+        "rating": 1.2,
+        "category": "Спорт",
+        "in_stock": false
+    },
+    {
+        "id": 780,
+        "name": "Кукла 15",
+        "price": 30666.09,
+        "rating": 1.7,
+        "category": "Книги",
+        "in_stock": true
+    },
+    {
+        "id": 781,
+        "name": "Наушники 65",
+        "price": 42579.97,
+        "rating": 3.4,
+        "category": "Обувь",
+        "in_stock": true
+    },
+    {
+        "id": 782,
+        "name": "Колонка 63",
+        "price": 17279.62,
+        "rating": 1.8,
+        "category": "Книги",
+        "in_stock": false
+    },
+    {
+        "id": 783,
+        "name": "Монитор 61",
+        "price": 22376.87,
+        "rating": 4.6,
+        "category": "Спорт",
+        "in_stock": false
+    },
+    {
+        "id": 784,
+        "name": "Шампунь 37",
+        "price": 36005.53,
+        "rating": 2.1,
+        "category": "Красота",
+        "in_stock": false
+    },
+    {
+        "id": 785,
+        "name": "Крем 70",
+        "price": 14732.62,
+        "rating": 3.6,
+        "category": "Обувь",
+        "in_stock": true
+    },
+    {
+        "id": 786,
+        "name": "Кабель 75",
+        "price": 21323.81,
+        "rating": 1.4,
+        "category": "Аксуссуары",
+        "in_stock": true
+    },
+    {
+        "id": 787,
+        "name": "Наушники 32",
+        "price": 23501.28,
+        "rating": 3.6,
+        "category": "Электроника",
+        "in_stock": false
+    },
+    {
+        "id": 788,
+        "name": "Крем 42",
+        "price": 39933.99,
+        "rating": 1.3,
+        "category": "Игрушки",
+        "in_stock": false
+    },
+    {
+        "id": 789,
+        "name": "Ролики 7",
+        "price": 43734.79,
+        "rating": 3.8,
+        "category": "Электроника",
+        "in_stock": true
+    },
+    {
+        "id": 790,
+        "name": "Чехол 25",
+        "price": 4743.09,
+        "rating": 1.4,
+        "category": "Одежда",
+        "in_stock": true
+    },
+    {
+        "id": 791,
+        "name": "Шампунь 20",
+        "price": 33622.99,
+        "rating": 3.1,
+        "category": "Красота",
+        "in_stock": false
+    },
+    {
+        "id": 792,
+        "name": "Велосипед 89",
+        "price": 32376.96,
+        "rating": 2.5,
+        "category": "Аксуссуары",
+        "in_stock": false
+    },
+    {
+        "id": 793,
+        "name": "Мяч 61",
+        "price": 32633.2,
+        "rating": 2.5,
+        "category": "Спорт",
+        "in_stock": true
+    },
+    {
+        "id": 794,
+        "name": "Монитор 65",
+        "price": 41137.33,
+        "rating": 2.7,
+        "category": "Игрушки",
+        "in_stock": true
+    },
+    {
+        "id": 795,
+        "name": "Мышь 80",
+        "price": 7529.53,
+        "rating": 2.9,
+        "category": "Одежда",
+        "in_stock": false
+    },
+    {
+        "id": 796,
+        "name": "Рюкзак 72",
+        "price": 26207.67,
+        "rating": 2.3,
+        "category": "Красота",
+        "in_stock": false
+    },
+    {
+        "id": 797,
+        "name": "Рюкзак 91",
+        "price": 1768.1,
+        "rating": 3.2,
+        "category": "Электроника",
+        "in_stock": false
+    },
+    {
+        "id": 798,
+        "name": "Журнал 14",
+        "price": 24991.79,
+        "rating": 4.8,
+        "category": "Игрушки",
+        "in_stock": false
+    },
+    {
+        "id": 799,
+        "name": "Планшет 76",
+        "price": 28753.1,
+        "rating": 2.5,
+        "category": "Электроника",
+        "in_stock": true
+    },
+    {
+        "id": 800,
+        "name": "Рюкзак 2",
+        "price": 30018.91,
+        "rating": 3.4,
+        "category": "Электроника",
+        "in_stock": true
+    },
+    {
+        "id": 801,
+        "name": "Кофта 18",
+        "price": 40771.05,
+        "rating": 4.2,
+        "category": "Книги",
+        "in_stock": true
+    },
+    {
+        "id": 802,
+        "name": "Наушники 20",
+        "price": 2258.27,
+        "rating": 4.2,
+        "category": "Игрушки",
+        "in_stock": false
+    },
+    {
+        "id": 803,
+        "name": "Наушники 39",
+        "price": 37958.34,
+        "rating": 2.6,
+        "category": "Красота",
+        "in_stock": true
+    },
+    {
+        "id": 804,
+        "name": "Джинсы 28",
+        "price": 3589.9,
+        "rating": 4.3,
+        "category": "Книги",
+        "in_stock": true
+    },
+    {
+        "id": 805,
+        "name": "Чехол 13",
+        "price": 45747.54,
+        "rating": 4.4,
+        "category": "Электроника",
+        "in_stock": false
+    },
+    {
+        "id": 806,
+        "name": "Колонка 93",
+        "price": 40542.58,
+        "rating": 3.2,
+        "category": "Аксуссуары",
+        "in_stock": false
+    },
+    {
+        "id": 807,
+        "name": "Футболка 19",
+        "price": 323.85,
+        "rating": 1.3,
+        "category": "Обувь",
+        "in_stock": true
+    },
+    {
+        "id": 808,
+        "name": "Кукла 95",
+        "price": 6551.15,
+        "rating": 2.4,
+        "category": "Игрушки",
+        "in_stock": false
+    },
+    {
+        "id": 809,
+        "name": "Сумка 49",
+        "price": 40844.56,
+        "rating": 3.6,
+        "category": "Книги",
+        "in_stock": false
+    },
+    {
+        "id": 810,
+        "name": "Чехол 40",
+        "price": 8539.04,
+        "rating": 4.9,
+        "category": "Игрушки",
+        "in_stock": true
+    },
+    {
+        "id": 811,
+        "name": "Машинка 45",
+        "price": 38694.71,
+        "rating": 4.5,
+        "category": "Электроника",
+        "in_stock": false
+    },
+    {
+        "id": 812,
+        "name": "Зарядка 66",
+        "price": 112.88,
+        "rating": 2.3,
+        "category": "Красота",
+        "in_stock": false
+    },
+    {
+        "id": 813,
+        "name": "Машинка 7",
+        "price": 25862.2,
+        "rating": 1.4,
+        "category": "Игрушки",
+        "in_stock": false
+    },
+    {
+        "id": 814,
+        "name": "Куртка 48",
+        "price": 18722.97,
+        "rating": 1.2,
+        "category": "Игрушки",
+        "in_stock": false
+    },
+    {
+        "id": 815,
+        "name": "Планшет 60",
+        "price": 22140.44,
+        "rating": 1.8,
+        "category": "Электроника",
+        "in_stock": true
+    },
+    {
+        "id": 816,
+        "name": "Машинка 54",
+        "price": 32940.69,
+        "rating": 2.0,
+        "category": "Обувь",
+        "in_stock": true
+    },
+    {
+        "id": 817,
+        "name": "Журнал 66",
+        "price": 44276.49,
+        "rating": 2.9,
+        "category": "Аксуссуары",
+        "in_stock": true
+    },
+    {
+        "id": 818,
+        "name": "Стекло 40",
+        "price": 6985.9,
+        "rating": 1.2,
+        "category": "Одежда",
+        "in_stock": true
+    },
+    {
+        "id": 819,
+        "name": "Куртка 66",
+        "price": 23820.86,
+        "rating": 4.7,
+        "category": "Спорт",
+        "in_stock": true
+    },
+    {
+        "id": 820,
+        "name": "Планшет 41",
+        "price": 36761.42,
+        "rating": 2.3,
+        "category": "Аксуссуары",
+        "in_stock": false
+    },
+    {
+        "id": 821,
+        "name": "Джинсы 34",
+        "price": 16681.49,
+        "rating": 1.1,
+        "category": "Спорт",
+        "in_stock": true
+    },
+    {
+        "id": 822,
+        "name": "Телефон 81",
+        "price": 15682.83,
+        "rating": 4.3,
+        "category": "Красота",
+        "in_stock": true
+    },
+    {
+        "id": 823,
+        "name": "Мяч 97",
+        "price": 17860.99,
+        "rating": 1.1,
+        "category": "Книги",
+        "in_stock": true
+    },
+    {
+        "id": 824,
+        "name": "Журнал 53",
+        "price": 20574.2,
+        "rating": 2.2,
+        "category": "Спорт",
+        "in_stock": false
+    },
+    {
+        "id": 825,
+        "name": "Стекло 50",
+        "price": 3132.21,
+        "rating": 1.3,
+        "category": "Электроника",
+        "in_stock": true
+    },
+    {
+        "id": 826,
+        "name": "Велосипед 45",
+        "price": 30327.54,
+        "rating": 4.9,
+        "category": "Одежда",
+        "in_stock": true
+    },
+    {
+        "id": 827,
+        "name": "Ролики 12",
+        "price": 23246.76,
+        "rating": 2.8,
+        "category": "Аксуссуары",
+        "in_stock": true
+    },
+    {
+        "id": 828,
+        "name": "Конструктор 42",
+        "price": 2717.47,
+        "rating": 3.7,
+        "category": "Электроника",
+        "in_stock": false
+    },
+    {
+        "id": 829,
+        "name": "Конструктор 19",
+        "price": 29110.58,
+        "rating": 1.3,
+        "category": "Спорт",
+        "in_stock": true
+    },
+    {
+        "id": 830,
+        "name": "Велосипед 82",
+        "price": 2621.79,
+        "rating": 2.6,
+        "category": "Красота",
+        "in_stock": true
+    },
+    {
+        "id": 831,
+        "name": "Кукла 28",
+        "price": 25302.2,
+        "rating": 4.5,
+        "category": "Электроника",
+        "in_stock": true
+    },
+    {
+        "id": 832,
+        "name": "Машинка 56",
+        "price": 39444.16,
+        "rating": 4.2,
+        "category": "Книги",
+        "in_stock": true
+    },
+    {
+        "id": 833,
+        "name": "Кабель 59",
+        "price": 44780.17,
+        "rating": 1.3,
+        "category": "Аксуссуары",
+        "in_stock": true
+    },
+    {
+        "id": 834,
+        "name": "Кукла 99",
+        "price": 46589.44,
+        "rating": 3.5,
+        "category": "Спорт",
+        "in_stock": false
+    },
+    {
+        "id": 835,
+        "name": "Джинсы 95",
+        "price": 22402.77,
+        "rating": 4.3,
+        "category": "Электроника",
+        "in_stock": false
+    },
+    {
+        "id": 836,
+        "name": "Клавиатура 25",
+        "price": 34678.06,
+        "rating": 3.1,
+        "category": "Одежда",
+        "in_stock": true
+    },
+    {
+        "id": 837,
+        "name": "Монитор 43",
+        "price": 11894.15,
+        "rating": 2.0,
+        "category": "Игрушки",
+        "in_stock": false
+    },
+    {
+        "id": 838,
+        "name": "Велосипед 49",
+        "price": 24817.4,
+        "rating": 1.6,
+        "category": "Аксуссуары",
+        "in_stock": true
+    },
+    {
+        "id": 839,
+        "name": "Шампунь 77",
+        "price": 2547.85,
+        "rating": 4.8,
+        "category": "Обувь",
+        "in_stock": false
+    },
+    {
+        "id": 840,
+        "name": "Клавиатура 65",
+        "price": 4972.41,
+        "rating": 1.6,
+        "category": "Обувь",
+        "in_stock": false
+    },
+    {
+        "id": 841,
+        "name": "Клавиатура 52",
+        "price": 44647.33,
+        "rating": 2.3,
+        "category": "Красота",
+        "in_stock": false
+    },
+    {
+        "id": 842,
+        "name": "Джинсы 96",
+        "price": 34916.01,
+        "rating": 4.6,
+        "category": "Красота",
+        "in_stock": true
+    },
+    {
+        "id": 843,
+        "name": "Конструктор 57",
+        "price": 29544.95,
+        "rating": 3.4,
+        "category": "Обувь",
+        "in_stock": false
+    },
+    {
+        "id": 844,
+        "name": "Велосипед 52",
+        "price": 26409.56,
+        "rating": 2.7,
+        "category": "Электроника",
+        "in_stock": false
+    },
+    {
+        "id": 845,
+        "name": "Куртка 84",
+        "price": 21412.63,
+        "rating": 2.5,
+        "category": "Одежда",
+        "in_stock": true
+    },
+    {
+        "id": 846,
+        "name": "Телефон 52",
+        "price": 29893.12,
+        "rating": 3.3,
+        "category": "Электроника",
+        "in_stock": true
+    },
+    {
+        "id": 847,
+        "name": "Платье 63",
+        "price": 27726.07,
+        "rating": 2.0,
+        "category": "Электроника",
+        "in_stock": false
+    },
+    {
+        "id": 848,
+        "name": "Платье 19",
+        "price": 31292.52,
+        "rating": 1.3,
+        "category": "Обувь",
+        "in_stock": true
+    },
+    {
+        "id": 849,
+        "name": "Чехол 32",
+        "price": 28142.95,
+        "rating": 4.7,
+        "category": "Игрушки",
+        "in_stock": true
+    },
+    {
+        "id": 850,
+        "name": "Куртка 72",
+        "price": 39780.35,
+        "rating": 4.1,
+        "category": "Одежда",
+        "in_stock": false
+    },
+    {
+        "id": 851,
+        "name": "Шампунь 27",
+        "price": 49568.41,
+        "rating": 1.1,
+        "category": "Электроника",
+        "in_stock": false
+    },
+    {
+        "id": 852,
+        "name": "Чехол 77",
+        "price": 46428.3,
+        "rating": 4.8,
+        "category": "Обувь",
+        "in_stock": true
+    },
+    {
+        "id": 853,
+        "name": "Крем 56",
+        "price": 35476.67,
+        "rating": 4.8,
+        "category": "Аксуссуары",
+        "in_stock": true
+    },
+    {
+        "id": 854,
+        "name": "Крем 1",
+        "price": 4002.51,
+        "rating": 3.6,
+        "category": "Игрушки",
+        "in_stock": false
+    },
+    {
+        "id": 855,
+        "name": "Чехол 2",
+        "price": 19273.67,
+        "rating": 4.0,
+        "category": "Одежда",
+        "in_stock": false
+    },
+    {
+        "id": 856,
+        "name": "Мяч 56",
+        "price": 18368.91,
+        "rating": 2.6,
+        "category": "Спорт",
+        "in_stock": true
+    },
+    {
+        "id": 857,
+        "name": "Конструктор 66",
+        "price": 37055.84,
+        "rating": 3.6,
+        "category": "Аксуссуары",
+        "in_stock": true
+    },
+    {
+        "id": 858,
+        "name": "Джинсы 43",
+        "price": 847.12,
+        "rating": 1.1,
+        "category": "Аксуссуары",
+        "in_stock": true
+    },
+    {
+        "id": 859,
+        "name": "Кофта 59",
+        "price": 14924.72,
+        "rating": 4.3,
+        "category": "Книги",
+        "in_stock": true
+    },
+    {
+        "id": 860,
+        "name": "Машинка 70",
+        "price": 24754.85,
+        "rating": 3.0,
+        "category": "Электроника",
+        "in_stock": true
+    },
+    {
+        "id": 861,
+        "name": "Футболка 55",
+        "price": 37808.25,
+        "rating": 1.3,
+        "category": "Аксуссуары",
+        "in_stock": false
+    },
+    {
+        "id": 862,
+        "name": "Журнал 63",
+        "price": 3161.28,
+        "rating": 2.8,
+        "category": "Обувь",
+        "in_stock": true
+    },
+    {
+        "id": 863,
+        "name": "Велосипед 32",
+        "price": 4202.65,
+        "rating": 4.4,
+        "category": "Аксуссуары",
+        "in_stock": true
+    },
+    {
+        "id": 864,
+        "name": "Конструктор 48",
+        "price": 40356.56,
+        "rating": 2.4,
+        "category": "Обувь",
+        "in_stock": true
+    },
+    {
+        "id": 865,
+        "name": "Кабель 40",
+        "price": 40723.72,
+        "rating": 4.7,
+        "category": "Аксуссуары",
+        "in_stock": true
+    },
+    {
+        "id": 866,
+        "name": "Журнал 68",
+        "price": 11128.25,
+        "rating": 2.8,
+        "category": "Обувь",
+        "in_stock": true
+    },
+    {
+        "id": 867,
+        "name": "Рюкзак 75",
+        "price": 13675.19,
+        "rating": 4.4,
+        "category": "Спорт",
+        "in_stock": false
+    },
+    {
+        "id": 868,
+        "name": "Мышь 97",
+        "price": 7247.27,
+        "rating": 4.1,
+        "category": "Электроника",
+        "in_stock": false
+    },
+    {
+        "id": 869,
+        "name": "Машинка 71",
+        "price": 41476.77,
+        "rating": 4.8,
+        "category": "Одежда",
+        "in_stock": true
+    },
+    {
+        "id": 870,
+        "name": "Рюкзак 1",
+        "price": 31088.53,
+        "rating": 1.3,
+        "category": "Книги",
+        "in_stock": false
+    },
+    {
+        "id": 871,
+        "name": "Наушники 34",
+        "price": 37189.22,
+        "rating": 1.2,
+        "category": "Красота",
+        "in_stock": false
+    },
+    {
+        "id": 872,
+        "name": "Крем 42",
+        "price": 48063.85,
+        "rating": 4.7,
+        "category": "Аксуссуары",
+        "in_stock": true
+    },
+    {
+        "id": 873,
+        "name": "Велосипед 74",
+        "price": 13964.84,
+        "rating": 3.2,
+        "category": "Красота",
+        "in_stock": false
+    },
+    {
+        "id": 874,
+        "name": "Духи 7",
+        "price": 16045.16,
+        "rating": 2.0,
+        "category": "Одежда",
+        "in_stock": true
+    },
+    {
+        "id": 875,
+        "name": "Сумка 55",
+        "price": 3963.98,
+        "rating": 3.2,
+        "category": "Одежда",
+        "in_stock": true
+    },
+    {
+        "id": 876,
+        "name": "Кабель 27",
+        "price": 25190.52,
+        "rating": 3.6,
+        "category": "Красота",
+        "in_stock": true
+    },
+    {
+        "id": 877,
+        "name": "Кабель 8",
+        "price": 35848.26,
+        "rating": 2.2,
+        "category": "Книги",
+        "in_stock": true
+    },
+    {
+        "id": 878,
+        "name": "Монитор 8",
+        "price": 130.14,
+        "rating": 3.8,
+        "category": "Красота",
+        "in_stock": false
+    },
+    {
+        "id": 879,
+        "name": "Шампунь 81",
+        "price": 39415.12,
+        "rating": 1.3,
+        "category": "Электроника",
+        "in_stock": false
+    },
+    {
+        "id": 880,
+        "name": "Машинка 1",
+        "price": 42608.57,
+        "rating": 3.3,
+        "category": "Игрушки",
+        "in_stock": true
+    },
+    {
+        "id": 881,
+        "name": "Шампунь 40",
+        "price": 16277.69,
+        "rating": 1.2,
+        "category": "Игрушки",
+        "in_stock": false
+    },
+    {
+        "id": 882,
+        "name": "Колонка 100",
+        "price": 5781.78,
+        "rating": 4.5,
+        "category": "Игрушки",
+        "in_stock": false
+    },
+    {
+        "id": 883,
+        "name": "Клавиатура 61",
+        "price": 4026.51,
+        "rating": 1.4,
+        "category": "Электроника",
+        "in_stock": false
+    },
+    {
+        "id": 884,
+        "name": "Монитор 95",
+        "price": 17666.2,
+        "rating": 2.9,
+        "category": "Книги",
+        "in_stock": false
+    },
+    {
+        "id": 885,
+        "name": "Телефон 17",
+        "price": 46013.1,
+        "rating": 4.3,
+        "category": "Спорт",
+        "in_stock": true
+    },
+    {
+        "id": 886,
+        "name": "Машинка 4",
+        "price": 44085.75,
+        "rating": 3.3,
+        "category": "Аксуссуары",
+        "in_stock": true
+    },
+    {
+        "id": 887,
+        "name": "Кукла 35",
+        "price": 20840.76,
+        "rating": 4.9,
+        "category": "Игрушки",
+        "in_stock": false
+    },
+    {
+        "id": 888,
+        "name": "Кофта 40",
+        "price": 31119.76,
+        "rating": 4.6,
+        "category": "Книги",
+        "in_stock": true
+    },
+    {
+        "id": 889,
+        "name": "Мяч 68",
+        "price": 41123.06,
+        "rating": 5.0,
+        "category": "Аксуссуары",
+        "in_stock": true
+    },
+    {
+        "id": 890,
+        "name": "Кукла 82",
+        "price": 20154.38,
+        "rating": 1.3,
+        "category": "Спорт",
+        "in_stock": true
+    },
+    {
+        "id": 891,
+        "name": "Машинка 96",
+        "price": 32102.37,
+        "rating": 3.8,
+        "category": "Спорт",
+        "in_stock": true
+    },
+    {
+        "id": 892,
+        "name": "Машинка 57",
+        "price": 859.79,
+        "rating": 2.5,
+        "category": "Игрушки",
+        "in_stock": true
+    },
+    {
+        "id": 893,
+        "name": "Зарядка 58",
+        "price": 11480.03,
+        "rating": 4.1,
+        "category": "Обувь",
+        "in_stock": false
+    },
+    {
+        "id": 894,
+        "name": "Крем 37",
+        "price": 4243.6,
+        "rating": 4.8,
+        "category": "Аксуссуары",
+        "in_stock": false
+    },
+    {
+        "id": 895,
+        "name": "Кофта 3",
+        "price": 15222.17,
+        "rating": 1.3,
+        "category": "Игрушки",
+        "in_stock": true
+    },
+    {
+        "id": 896,
+        "name": "Велосипед 10",
+        "price": 3268.79,
+        "rating": 3.0,
+        "category": "Обувь",
+        "in_stock": false
+    },
+    {
+        "id": 897,
+        "name": "Футболка 1",
+        "price": 514.02,
+        "rating": 1.2,
+        "category": "Обувь",
+        "in_stock": false
+    },
+    {
+        "id": 898,
+        "name": "Машинка 63",
+        "price": 41613.88,
+        "rating": 3.2,
+        "category": "Аксуссуары",
+        "in_stock": false
+    },
+    {
+        "id": 899,
+        "name": "Кофта 39",
+        "price": 27169.83,
+        "rating": 2.1,
+        "category": "Красота",
+        "in_stock": true
+    },
+    {
+        "id": 900,
+        "name": "Духи 67",
+        "price": 16918.94,
+        "rating": 2.8,
+        "category": "Красота",
+        "in_stock": true
+    },
+    {
+        "id": 901,
+        "name": "Духи 36",
+        "price": 16594.37,
+        "rating": 3.6,
+        "category": "Аксуссуары",
+        "in_stock": true
+    },
+    {
+        "id": 902,
+        "name": "Джинсы 32",
+        "price": 25059.68,
+        "rating": 4.3,
+        "category": "Красота",
+        "in_stock": true
+    },
+    {
+        "id": 903,
+        "name": "Машинка 16",
+        "price": 34715.72,
+        "rating": 4.8,
+        "category": "Обувь",
+        "in_stock": false
+    },
+    {
+        "id": 904,
+        "name": "Ролики 65",
+        "price": 3926.07,
+        "rating": 2.1,
+        "category": "Аксуссуары",
+        "in_stock": true
+    },
+    {
+        "id": 905,
+        "name": "Чехол 1",
+        "price": 26329.19,
+        "rating": 4.9,
+        "category": "Книги",
+        "in_stock": true
+    },
+    {
+        "id": 906,
+        "name": "Рюкзак 82",
+        "price": 38914.9,
+        "rating": 1.7,
+        "category": "Красота",
+        "in_stock": true
+    },
+    {
+        "id": 907,
+        "name": "Телефон 20",
+        "price": 1751.87,
+        "rating": 4.1,
+        "category": "Одежда",
+        "in_stock": false
+    },
+    {
+        "id": 908,
+        "name": "Духи 19",
+        "price": 8880.29,
+        "rating": 1.8,
+        "category": "Обувь",
+        "in_stock": true
+    },
+    {
+        "id": 909,
+        "name": "Шампунь 62",
+        "price": 10784.85,
+        "rating": 1.5,
+        "category": "Аксуссуары",
+        "in_stock": true
+    },
+    {
+        "id": 910,
+        "name": "Духи 43",
+        "price": 48188.24,
+        "rating": 4.0,
+        "category": "Спорт",
+        "in_stock": true
+    },
+    {
+        "id": 911,
+        "name": "Платье 57",
+        "price": 29571.46,
+        "rating": 2.2,
+        "category": "Спорт",
+        "in_stock": false
+    },
+    {
+        "id": 912,
+        "name": "Сумка 15",
+        "price": 13918.59,
+        "rating": 3.9,
+        "category": "Аксуссуары",
+        "in_stock": true
+    },
+    {
+        "id": 913,
+        "name": "Стекло 72",
+        "price": 20833.2,
+        "rating": 1.4,
+        "category": "Электроника",
+        "in_stock": false
+    },
+    {
+        "id": 914,
+        "name": "Стекло 51",
+        "price": 45574.52,
+        "rating": 2.2,
+        "category": "Игрушки",
+        "in_stock": false
+    },
+    {
+        "id": 915,
+        "name": "Монитор 58",
+        "price": 17906.04,
+        "rating": 2.8,
+        "category": "Книги",
+        "in_stock": true
+    },
+    {
+        "id": 916,
+        "name": "Монитор 6",
+        "price": 33325.16,
+        "rating": 3.2,
+        "category": "Книги",
+        "in_stock": false
+    },
+    {
+        "id": 917,
+        "name": "Конструктор 46",
+        "price": 37967.08,
+        "rating": 3.1,
+        "category": "Красота",
+        "in_stock": false
+    },
+    {
+        "id": 918,
+        "name": "Телефон 42",
+        "price": 9019.93,
+        "rating": 3.9,
+        "category": "Одежда",
+        "in_stock": true
+    },
+    {
+        "id": 919,
+        "name": "Стекло 32",
+        "price": 4541.03,
+        "rating": 4.0,
+        "category": "Книги",
+        "in_stock": false
+    },
+    {
+        "id": 920,
+        "name": "Телефон 26",
+        "price": 10577.5,
+        "rating": 3.5,
+        "category": "Одежда",
+        "in_stock": true
+    },
+    {
+        "id": 921,
+        "name": "Кофта 82",
+        "price": 20430.98,
+        "rating": 2.8,
+        "category": "Игрушки",
+        "in_stock": false
+    },
+    {
+        "id": 922,
+        "name": "Клавиатура 45",
+        "price": 17198.98,
+        "rating": 1.5,
+        "category": "Красота",
+        "in_stock": true
+    },
+    {
+        "id": 923,
+        "name": "Рюкзак 45",
+        "price": 40123.05,
+        "rating": 2.6,
+        "category": "Красота",
+        "in_stock": false
+    },
+    {
+        "id": 924,
+        "name": "Наушники 59",
+        "price": 37074.38,
+        "rating": 3.6,
+        "category": "Обувь",
+        "in_stock": false
+    },
+    {
+        "id": 925,
+        "name": "Конструктор 32",
+        "price": 24190.01,
+        "rating": 4.7,
+        "category": "Электроника",
+        "in_stock": false
+    },
+    {
+        "id": 926,
+        "name": "Мышь 50",
+        "price": 47321.33,
+        "rating": 2.3,
+        "category": "Обувь",
+        "in_stock": false
+    },
+    {
+        "id": 927,
+        "name": "Духи 14",
+        "price": 43362.78,
+        "rating": 3.6,
+        "category": "Одежда",
+        "in_stock": true
+    },
+    {
+        "id": 928,
+        "name": "Футболка 3",
+        "price": 9892.77,
+        "rating": 1.6,
+        "category": "Игрушки",
+        "in_stock": true
+    },
+    {
+        "id": 929,
+        "name": "Монитор 96",
+        "price": 3605.83,
+        "rating": 4.7,
+        "category": "Игрушки",
+        "in_stock": false
+    },
+    {
+        "id": 930,
+        "name": "Кабель 65",
+        "price": 37042.86,
+        "rating": 2.7,
+        "category": "Одежда",
+        "in_stock": true
+    },
+    {
+        "id": 931,
+        "name": "Клавиатура 56",
+        "price": 30616.61,
+        "rating": 4.9,
+        "category": "Обувь",
+        "in_stock": false
+    },
+    {
+        "id": 932,
+        "name": "Чехол 98",
+        "price": 17095.05,
+        "rating": 2.1,
+        "category": "Электроника",
+        "in_stock": true
+    },
+    {
+        "id": 933,
+        "name": "Рюкзак 43",
+        "price": 21977.94,
+        "rating": 2.4,
+        "category": "Одежда",
+        "in_stock": true
+    },
+    {
+        "id": 934,
+        "name": "Мяч 31",
+        "price": 27774.13,
+        "rating": 4.2,
+        "category": "Спорт",
+        "in_stock": true
+    },
+    {
+        "id": 935,
+        "name": "Телефон 92",
+        "price": 32037.39,
+        "rating": 3.7,
+        "category": "Игрушки",
+        "in_stock": false
+    },
+    {
+        "id": 936,
+        "name": "Стекло 56",
+        "price": 38636.74,
+        "rating": 3.7,
+        "category": "Книги",
+        "in_stock": true
+    },
+    {
+        "id": 937,
+        "name": "Ролики 68",
+        "price": 17261.67,
+        "rating": 1.0,
+        "category": "Книги",
+        "in_stock": true
+    },
+    {
+        "id": 938,
+        "name": "Рюкзак 51",
+        "price": 12653.85,
+        "rating": 1.7,
+        "category": "Красота",
+        "in_stock": false
+    },
+    {
+        "id": 939,
+        "name": "Кабель 5",
+        "price": 49536.65,
+        "rating": 1.8,
+        "category": "Красота",
+        "in_stock": true
+    },
+    {
+        "id": 940,
+        "name": "Куртка 23",
+        "price": 3558.02,
+        "rating": 3.3,
+        "category": "Аксуссуары",
+        "in_stock": false
+    },
+    {
+        "id": 941,
+        "name": "Шампунь 61",
+        "price": 46255.04,
+        "rating": 2.4,
+        "category": "Красота",
+        "in_stock": false
+    },
+    {
+        "id": 942,
+        "name": "Платье 23",
+        "price": 29396.27,
+        "rating": 1.9,
+        "category": "Обувь",
+        "in_stock": true
+    },
+    {
+        "id": 943,
+        "name": "Планшет 64",
+        "price": 18488.83,
+        "rating": 1.2,
+        "category": "Обувь",
+        "in_stock": true
+    },
+    {
+        "id": 944,
+        "name": "Телефон 67",
+        "price": 16049.43,
+        "rating": 2.5,
+        "category": "Красота",
+        "in_stock": true
+    },
+    {
+        "id": 945,
+        "name": "Наушники 54",
+        "price": 24039.18,
+        "rating": 3.7,
+        "category": "Книги",
+        "in_stock": false
+    },
+    {
+        "id": 946,
+        "name": "Мышь 89",
+        "price": 40000.41,
+        "rating": 3.7,
+        "category": "Электроника",
+        "in_stock": true
+    },
+    {
+        "id": 947,
+        "name": "Кабель 77",
+        "price": 10290.01,
+        "rating": 2.3,
+        "category": "Красота",
+        "in_stock": true
+    },
+    {
+        "id": 948,
+        "name": "Духи 69",
+        "price": 44795.11,
+        "rating": 4.6,
+        "category": "Красота",
+        "in_stock": true
+    },
+    {
+        "id": 949,
+        "name": "Колонка 54",
+        "price": 8161.52,
+        "rating": 4.6,
+        "category": "Обувь",
+        "in_stock": true
+    },
+    {
+        "id": 950,
+        "name": "Клавиатура 21",
+        "price": 8791.06,
+        "rating": 3.0,
+        "category": "Аксуссуары",
+        "in_stock": false
+    },
+    {
+        "id": 951,
+        "name": "Чехол 90",
+        "price": 33542.18,
+        "rating": 5.0,
+        "category": "Красота",
+        "in_stock": true
+    },
+    {
+        "id": 952,
+        "name": "Джинсы 93",
+        "price": 11343.04,
+        "rating": 1.6,
+        "category": "Обувь",
+        "in_stock": false
+    },
+    {
+        "id": 953,
+        "name": "Шампунь 16",
+        "price": 6206.45,
+        "rating": 1.6,
+        "category": "Обувь",
+        "in_stock": false
+    },
+    {
+        "id": 954,
+        "name": "Телефон 69",
+        "price": 1845.92,
+        "rating": 2.8,
+        "category": "Красота",
+        "in_stock": false
+    },
+    {
+        "id": 955,
+        "name": "Шампунь 37",
+        "price": 39373.0,
+        "rating": 1.7,
+        "category": "Книги",
+        "in_stock": true
+    },
+    {
+        "id": 956,
+        "name": "Платье 69",
+        "price": 15384.01,
+        "rating": 1.5,
+        "category": "Красота",
+        "in_stock": false
+    },
+    {
+        "id": 957,
+        "name": "Велосипед 59",
+        "price": 48266.14,
+        "rating": 4.8,
+        "category": "Электроника",
+        "in_stock": false
+    },
+    {
+        "id": 958,
+        "name": "Кукла 37",
+        "price": 39233.34,
+        "rating": 2.3,
+        "category": "Одежда",
+        "in_stock": false
+    },
+    {
+        "id": 959,
+        "name": "Кабель 92",
+        "price": 908.07,
+        "rating": 1.3,
+        "category": "Одежда",
+        "in_stock": true
+    },
+    {
+        "id": 960,
+        "name": "Монитор 68",
+        "price": 47130.35,
+        "rating": 3.6,
+        "category": "Аксуссуары",
+        "in_stock": false
+    },
+    {
+        "id": 961,
+        "name": "Сумка 80",
+        "price": 33746.94,
+        "rating": 4.6,
+        "category": "Красота",
+        "in_stock": true
+    },
+    {
+        "id": 962,
+        "name": "Мышь 17",
+        "price": 36452.3,
+        "rating": 2.7,
+        "category": "Книги",
+        "in_stock": true
+    },
+    {
+        "id": 963,
+        "name": "Джинсы 75",
+        "price": 40716.1,
+        "rating": 4.5,
+        "category": "Одежда",
+        "in_stock": true
+    },
+    {
+        "id": 964,
+        "name": "Клавиатура 38",
+        "price": 28205.33,
+        "rating": 3.9,
+        "category": "Обувь",
+        "in_stock": false
+    },
+    {
+        "id": 965,
+        "name": "Крем 35",
+        "price": 1734.92,
+        "rating": 4.3,
+        "category": "Игрушки",
+        "in_stock": false
+    },
+    {
+        "id": 966,
+        "name": "Конструктор 57",
+        "price": 2495.32,
+        "rating": 3.1,
+        "category": "Обувь",
+        "in_stock": false
+    },
+    {
+        "id": 967,
+        "name": "Футболка 78",
+        "price": 22554.44,
+        "rating": 3.0,
+        "category": "Игрушки",
+        "in_stock": false
+    },
+    {
+        "id": 968,
+        "name": "Ролики 3",
+        "price": 20725.36,
+        "rating": 2.5,
+        "category": "Красота",
+        "in_stock": true
+    },
+    {
+        "id": 969,
+        "name": "Мышь 41",
+        "price": 5296.06,
+        "rating": 1.2,
+        "category": "Обувь",
+        "in_stock": false
+    },
+    {
+        "id": 970,
+        "name": "Крем 30",
+        "price": 15569.44,
+        "rating": 4.9,
+        "category": "Спорт",
+        "in_stock": false
+    },
+    {
+        "id": 971,
+        "name": "Кофта 61",
+        "price": 26738.25,
+        "rating": 2.2,
+        "category": "Одежда",
+        "in_stock": true
+    },
+    {
+        "id": 972,
+        "name": "Клавиатура 53",
+        "price": 40691.7,
+        "rating": 5.0,
+        "category": "Игрушки",
+        "in_stock": true
+    },
+    {
+        "id": 973,
+        "name": "Клавиатура 99",
+        "price": 16524.35,
+        "rating": 1.4,
+        "category": "Спорт",
+        "in_stock": true
+    },
+    {
+        "id": 974,
+        "name": "Платье 51",
+        "price": 42015.66,
+        "rating": 3.8,
+        "category": "Книги",
+        "in_stock": false
+    },
+    {
+        "id": 975,
+        "name": "Джинсы 99",
+        "price": 4454.72,
+        "rating": 2.1,
+        "category": "Книги",
+        "in_stock": false
+    },
+    {
+        "id": 976,
+        "name": "Куртка 100",
+        "price": 43940.32,
+        "rating": 1.8,
+        "category": "Обувь",
+        "in_stock": true
+    },
+    {
+        "id": 977,
+        "name": "Конструктор 39",
+        "price": 17784.87,
+        "rating": 4.8,
+        "category": "Обувь",
+        "in_stock": true
+    },
+    {
+        "id": 978,
+        "name": "Наушники 9",
+        "price": 14561.0,
+        "rating": 1.5,
+        "category": "Красота",
+        "in_stock": false
+    },
+    {
+        "id": 979,
+        "name": "Кабель 94",
+        "price": 13445.85,
+        "rating": 1.2,
+        "category": "Одежда",
+        "in_stock": true
+    },
+    {
+        "id": 980,
+        "name": "Рюкзак 67",
+        "price": 13468.57,
+        "rating": 4.3,
+        "category": "Спорт",
+        "in_stock": false
+    },
+    {
+        "id": 981,
+        "name": "Мышь 80",
+        "price": 14903.03,
+        "rating": 1.8,
+        "category": "Спорт",
+        "in_stock": false
+    },
+    {
+        "id": 982,
+        "name": "Джинсы 44",
+        "price": 49792.76,
+        "rating": 2.1,
+        "category": "Игрушки",
+        "in_stock": true
+    },
+    {
+        "id": 983,
+        "name": "Ролики 39",
+        "price": 21217.75,
+        "rating": 4.7,
+        "category": "Спорт",
+        "in_stock": false
+    },
+    {
+        "id": 984,
+        "name": "Планшет 60",
+        "price": 27945.98,
+        "rating": 2.7,
+        "category": "Обувь",
+        "in_stock": true
+    },
+    {
+        "id": 985,
+        "name": "Шампунь 29",
+        "price": 18044.61,
+        "rating": 3.8,
+        "category": "Спорт",
+        "in_stock": true
+    },
+    {
+        "id": 986,
+        "name": "Мышь 70",
+        "price": 3939.31,
+        "rating": 2.4,
+        "category": "Красота",
+        "in_stock": true
+    },
+    {
+        "id": 987,
+        "name": "Наушники 75",
+        "price": 10550.69,
+        "rating": 1.3,
+        "category": "Игрушки",
+        "in_stock": false
+    },
+    {
+        "id": 988,
+        "name": "Монитор 16",
+        "price": 45985.92,
+        "rating": 4.8,
+        "category": "Красота",
+        "in_stock": true
+    },
+    {
+        "id": 989,
+        "name": "Машинка 41",
+        "price": 41304.02,
+        "rating": 3.0,
+        "category": "Одежда",
+        "in_stock": false
+    },
+    {
+        "id": 990,
+        "name": "Кофта 15",
+        "price": 43908.14,
+        "rating": 2.5,
+        "category": "Игрушки",
+        "in_stock": true
+    },
+    {
+        "id": 991,
+        "name": "Машинка 42",
+        "price": 6218.81,
+        "rating": 2.2,
+        "category": "Игрушки",
+        "in_stock": true
+    },
+    {
+        "id": 992,
+        "name": "Крем 77",
+        "price": 35107.53,
+        "rating": 3.2,
+        "category": "Спорт",
+        "in_stock": true
+    },
+    {
+        "id": 993,
+        "name": "Стекло 35",
+        "price": 42829.26,
+        "rating": 4.4,
+        "category": "Одежда",
+        "in_stock": true
+    },
+    {
+        "id": 994,
+        "name": "Крем 72",
+        "price": 48307.07,
+        "rating": 2.7,
+        "category": "Аксуссуары",
+        "in_stock": false
+    },
+    {
+        "id": 995,
+        "name": "Планшет 96",
+        "price": 3302.63,
+        "rating": 4.0,
+        "category": "Электроника",
+        "in_stock": true
+    },
+    {
+        "id": 996,
+        "name": "Кукла 21",
+        "price": 21530.91,
+        "rating": 3.8,
+        "category": "Красота",
+        "in_stock": false
+    },
+    {
+        "id": 997,
+        "name": "Куртка 99",
+        "price": 26855.73,
+        "rating": 2.0,
+        "category": "Одежда",
+        "in_stock": true
+    },
+    {
+        "id": 998,
+        "name": "Платье 47",
+        "price": 12666.66,
+        "rating": 2.1,
+        "category": "Спорт",
+        "in_stock": false
+    },
+    {
+        "id": 999,
+        "name": "Крем 2",
+        "price": 23209.53,
+        "rating": 2.0,
+        "category": "Электроника",
+        "in_stock": false
+    },
+    {
+        "id": 1000,
+        "name": "Духи 22",
+        "price": 35598.22,
+        "rating": 4.4,
+        "category": "Книги",
+        "in_stock": true
+    }
+]

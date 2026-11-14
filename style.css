@@ -1,0 +1,54 @@
+body{
+    background-color: rgb(250, 159, 220);
+    box-sizing: border-box;
+    
+}
+.header{
+   display: flex;
+   justify-content: space-around;
+   align-items: center;
+}
+.links{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 20px;
+}
+.icons{
+    display: flex;
+    flex-direction: row;
+    
+}
+@keyframes pulse{
+    0% {transform: scale(1);}
+    50% {transform: scale(1.05);}
+    100%{transform: scale(1);}
+}
+main button{
+    background-color: aqua;
+    color: blue;
+    padding: 10px;
+    border-radius: 4px;
+    transition: all 0.3s ease;
+}
+main button:hover{
+    animation: pulse 1s infinite;
+}
+main button:active{
+    transform: translateY(0);
+}
+section{
+
+}
+.card{
+
+}
+.cards{
+
+}
+.card p{
+
+}
+.card button{
+    
+}
